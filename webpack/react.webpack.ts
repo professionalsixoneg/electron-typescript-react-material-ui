@@ -8,7 +8,10 @@ const config = {
     extensions: [".tsx", ".ts", ".js"],
     mainFields: ["main", "module", "browser"],
   },
-  entry: path.resolve(rootPath, "src/renderer", "index.tsx"),
+  entry: {
+    mainWindow: path.resolve(rootPath, "src/renderer", "index.tsx"),
+    worker: path.resolve(rootPath, "src/worker", "workerWindow.tsx")
+  }, 
   target: "electron-renderer",
   devtool: "source-map",
   module: {
@@ -28,7 +31,7 @@ const config = {
   },
   devServer: {
     static: path.join(rootPath, "dist/renderer"),
-    dev: {
+    devMiddleware: {
       publicPath: "/",
     },
     port: 4000,
@@ -40,7 +43,15 @@ const config = {
     filename: "js/[name].js",
     publicPath: "./",
   },
-  plugins: [new HtmlWebpackPlugin()],
+  plugins: [new HtmlWebpackPlugin({
+              title: "Vaccine Booking App",
+              chunks: ['mainWindow']
+            }),
+            new HtmlWebpackPlugin({
+              title: "Vaccine Booking App Worker",
+              filename: "worker.html",
+              chunks: ['worker']
+            })],
 };
 
 export default config;

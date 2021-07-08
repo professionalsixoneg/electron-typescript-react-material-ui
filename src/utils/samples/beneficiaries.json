@@ -1,0 +1,49 @@
+{
+  "beneficiaries": [
+    {
+      "beneficiary_reference_id": "87525984772970",
+      "name": "Sehal Sharma",
+      "birth_year": "1983",
+      "gender": "Female",
+      "mobile_number": "4511",
+      "photo_id_type": "PAN Card",
+      "photo_id_number": "XXXXXX000F",
+      "comorbidity_ind": "N",
+      "vaccination_status": "Not Vaccinated",
+      "vaccine": "",
+      "dose1_date": "",
+      "dose2_date": "",
+      "appointments": []
+    },
+    {
+      "beneficiary_reference_id": "47882418480460",
+      "name": "Rahul Sharma",
+      "birth_year": "1981",
+      "gender": "Male",
+      "mobile_number": "4511",
+      "photo_id_type": "PAN Card",
+      "photo_id_number": "XXXXXX000M",
+      "comorbidity_ind": "N",
+      "vaccination_status": "Not Vaccinated",
+      "vaccine": "",
+      "dose1_date": "",
+      "dose2_date": "",
+      "appointments": [
+        {
+          "appointment_id": "792a81f5-2ff0-428b-a902-a2bec4333783",
+          "center_id": 705940,
+          "name": "KDMCP AIMS MEDICAL CENTRE DOMB",
+          "state_name": "Maharashtra",
+          "district_name": "Thane",
+          "block_name": "Kalyan",
+          "from": "09:00",
+          "to": "18:00",
+          "dose": 1,
+          "session_id": "a4b64788-183c-4e2c-8cfe-e907ecb24b23",
+          "date": "07-07-2021",
+          "slot": "01:00PM-03:00PM"
+        }
+      ]
+    }
+  ]
+}

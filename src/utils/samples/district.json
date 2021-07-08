@@ -1,0 +1,2992 @@
+{
+    "centers": [
+        {
+            "center_id": 722783,
+            "name": "Isha Netralaya Hospital",
+            "address": "Municipal Corporation Prestige Precinct Almeda Road Near Nitin Castin Company Above Honda Showroom Near Thane Panch Pakhdi Thane West Thane Maharashtra",
+            "state_name": "Maharashtra",
+            "district_name": "Thane",
+            "block_name": "Thane Municipal Corporation",
+            "pincode": 400601,
+            "lat": 19,
+            "long": 72,
+            "from": "14:30:00",
+            "to": "19:00:00",
+            "fee_type": "Paid",
+            "sessions": [
+                {
+                    "session_id": "1751ca0d-5c8a-4039-9899-e56069a7235a",
+                    "date": "03-07-2021",
+                    "available_capacity": 132,
+                    "min_age_limit": 18,
+                    "allow_all_age": true,
+                    "vaccine": "COVAXIN",
+                    "slots": [
+                        "02:30PM-03:30PM",
+                        "03:30PM-04:30PM",
+                        "04:30PM-05:30PM",
+                        "05:30PM-07:00PM"
+                    ],
+                    "available_capacity_dose1": 93,
+                    "available_capacity_dose2": 39
+                }
+            ],
+            "vaccine_fees": [
+                {
+                    "vaccine": "COVAXIN",
+                    "fee": "1410"
+                }
+            ]
+        },
+        {
+            "center_id": 643812,
+            "name": "KDMCP SRV MAMATA HOSPITAL",
+            "address": "P-43 Next To ICICI Bank Phase II MIDC Dombivali East Maharashtra",
+            "state_name": "Maharashtra",
+            "district_name": "Thane",
+            "block_name": "Kalyan Dombivali Municipal Corporation",
+            "pincode": 421203,
+            "lat": 19,
+            "long": 73,
+            "from": "10:00:00",
+            "to": "18:00:00",
+            "fee_type": "Paid",
+            "sessions": [
+                {
+                    "session_id": "85a985e5-30c2-46a9-8cce-f649886b1c73",
+                    "date": "03-07-2021",
+                    "available_capacity": 41,
+                    "min_age_limit": 18,
+                    "max_age_limit": 44,
+                    "allow_all_age": false,
+                    "vaccine": "COVISHIELD",
+                    "slots": [
+                        "10:00AM-12:00PM",
+                        "12:00PM-02:00PM",
+                        "02:00PM-04:00PM",
+                        "04:00PM-06:00PM"
+                    ],
+                    "available_capacity_dose1": 0,
+                    "available_capacity_dose2": 41
+                },
+                {
+                    "session_id": "60b7ab91-44d7-461d-9ef8-5ba72f406b2e",
+                    "date": "03-07-2021",
+                    "available_capacity": 0,
+                    "min_age_limit": 45,
+                    "allow_all_age": false,
+                    "vaccine": "COVISHIELD",
+                    "slots": [
+                        "10:00AM-12:00PM",
+                        "12:00PM-02:00PM",
+                        "02:00PM-04:00PM",
+                        "04:00PM-06:00PM"
+                    ],
+                    "available_capacity_dose1": 0,
+                    "available_capacity_dose2": 0
+                }
+            ],
+            "vaccine_fees": [
+                {
+                    "vaccine": "COVISHIELD",
+                    "fee": "780"
+                }
+            ]
+        },
+        {
+            "center_id": 672362,
+            "name": "BNMC MILLAT NAGAR UPHC",
+            "address": "FIRST FLOOR R.N COMPLEX BAZAR PETH",
+            "state_name": "Maharashtra",
+            "district_name": "Thane",
+            "block_name": "Bhiwandi Municipal Corporation",
+            "pincode": 421302,
+            "lat": 19,
+            "long": 73,
+            "from": "09:00:00",
+            "to": "17:00:00",
+            "fee_type": "Free",
+            "sessions": [
+                {
+                    "session_id": "bc4e90bc-93d2-4ce8-8902-673ce5ae2468",
+                    "date": "03-07-2021",
+                    "available_capacity": 0,
+                    "min_age_limit": 18,
+                    "max_age_limit": 44,
+                    "allow_all_age": false,
+                    "vaccine": "COVISHIELD",
+                    "slots": [
+                        "09:00AM-11:00AM",
+                        "11:00AM-01:00PM",
+                        "01:00PM-03:00PM",
+                        "03:00PM-05:00PM"
+                    ],
+                    "available_capacity_dose1": 0,
+                    "available_capacity_dose2": 0
+                },
+                {
+                    "session_id": "393cdcc6-56f3-4bb1-b688-6d57d2401e46",
+                    "date": "03-07-2021",
+                    "available_capacity": 0,
+                    "min_age_limit": 45,
+                    "allow_all_age": false,
+                    "vaccine": "COVISHIELD",
+                    "slots": [
+                        "09:00AM-11:00AM",
+                        "11:00AM-01:00PM",
+                        "01:00PM-03:00PM",
+                        "03:00PM-05:00PM"
+                    ],
+                    "available_capacity_dose1": 0,
+                    "available_capacity_dose2": 0
+                }
+            ]
+        },
+        {
+            "center_id": 613542,
+            "name": "Pinnacle Ortho Center Thane",
+            "address": "1St 2Nd Floor Blue Nile Commercial Complex Chandanwadi Charai Junction Lbs Marg Near Makhmali Talao Panch Pakhdi Thane West",
+            "state_name": "Maharashtra",
+            "district_name": "Thane",
+            "block_name": "Thane Municipal Corporation",
+            "pincode": 400602,
+            "lat": 19,
+            "long": 72,
+            "from": "09:00:00",
+            "to": "18:00:00",
+            "fee_type": "Paid",
+            "sessions": [
+                {
+                    "session_id": "00af7c5d-ae4e-420f-885e-f6b96c3798d7",
+                    "date": "03-07-2021",
+                    "available_capacity": 3,
+                    "min_age_limit": 18,
+                    "allow_all_age": true,
+                    "vaccine": "COVISHIELD",
+                    "slots": [
+                        "09:00AM-11:00AM",
+                        "11:00AM-01:00PM",
+                        "01:00PM-03:00PM",
+                        "03:00PM-06:00PM"
+                    ],
+                    "available_capacity_dose1": 0,
+                    "available_capacity_dose2": 3
+                }
+            ],
+            "vaccine_fees": [
+                {
+                    "vaccine": "COVISHIELD",
+                    "fee": "780"
+                }
+            ]
+        },
+        {
+            "center_id": 722332,
+            "name": "Dr. Bedekar Hospital",
+            "address": "Shivashakti Building Naupada M Karve Rd Ghantali Thane Maharashtra",
+            "state_name": "Maharashtra",
+            "district_name": "Thane",
+            "block_name": "Thane Municipal Corporation",
+            "pincode": 400602,
+            "lat": 19,
+            "long": 72,
+            "from": "12:00:00",
+            "to": "17:00:00",
+            "fee_type": "Paid",
+            "sessions": [
+                {
+                    "session_id": "8cb6ac3a-3542-4a4e-8873-ac947aab5d19",
+                    "date": "03-07-2021",
+                    "available_capacity": 0,
+                    "min_age_limit": 45,
+                    "allow_all_age": false,
+                    "vaccine": "COVISHIELD",
+                    "slots": [
+                        "12:00PM-01:00PM",
+                        "01:00PM-02:00PM",
+                        "02:00PM-03:00PM",
+                        "03:00PM-05:00PM"
+                    ],
+                    "available_capacity_dose1": 0,
+                    "available_capacity_dose2": 0
+                },
+                {
+                    "session_id": "3f7cdb7b-36f8-431d-aee5-eadb4c5d89c7",
+                    "date": "03-07-2021",
+                    "available_capacity": 0,
+                    "min_age_limit": 18,
+                    "max_age_limit": 44,
+                    "allow_all_age": false,
+                    "vaccine": "COVISHIELD",
+                    "slots": [
+                        "12:00PM-01:00PM",
+                        "01:00PM-02:00PM",
+                        "02:00PM-03:00PM",
+                        "03:00PM-05:00PM"
+                    ],
+                    "available_capacity_dose1": 0,
+                    "available_capacity_dose2": 0
+                }
+            ],
+            "vaccine_fees": [
+                {
+                    "vaccine": "COVISHIELD",
+                    "fee": "780"
+                }
+            ]
+        },
+        {
+            "center_id": 737803,
+            "name": "WOCHARDT HOSPITAL",
+            "address": "NEAR RASSAZ MIRA ROAD EAST",
+            "state_name": "Maharashtra",
+            "district_name": "Thane",
+            "block_name": "Mira Bhayander Municipal Corporation",
+            "pincode": 401107,
+            "lat": 19,
+            "long": 72,
+            "from": "11:00:00",
+            "to": "12:30:00",
+            "fee_type": "Paid",
+            "sessions": [
+                {
+                    "session_id": "1a47868e-7f3d-4448-b3f2-6b37c4b4520c",
+                    "date": "03-07-2021",
+                    "available_capacity": 0,
+                    "min_age_limit": 18,
+                    "allow_all_age": true,
+                    "vaccine": "COVISHIELD",
+                    "slots": [
+                        "11:00AM-12:30PM"
+                    ],
+                    "available_capacity_dose1": 0,
+                    "available_capacity_dose2": 0
+                },
+                {
+                    "session_id": "327f6c71-aba4-477a-b2d8-1c76b8e61404",
+                    "date": "04-07-2021",
+                    "available_capacity": 0,
+                    "min_age_limit": 18,
+                    "allow_all_age": true,
+                    "vaccine": "COVISHIELD",
+                    "slots": [
+                        "09:00AM-11:00AM",
+                        "11:00AM-01:00PM",
+                        "01:00PM-03:00PM",
+                        "03:00PM-07:00PM"
+                    ],
+                    "available_capacity_dose1": 0,
+                    "available_capacity_dose2": 0
+                }
+            ],
+            "vaccine_fees": [
+                {
+                    "vaccine": "COVISHIELD",
+                    "fee": "780"
+                }
+            ]
+        },
+        {
+            "center_id": 617401,
+            "name": "TRG KASARA PHC",
+            "address": "PHC KASARA",
+            "state_name": "Maharashtra",
+            "district_name": "Thane",
+            "block_name": "Shahapur",
+            "pincode": 421602,
+            "lat": 19,
+            "long": 73,
+            "from": "09:00:00",
+            "to": "17:00:00",
+            "fee_type": "Free",
+            "sessions": [
+                {
+                    "session_id": "31de41c2-af0f-4f7a-9045-e13afcadf918",
+                    "date": "03-07-2021",
+                    "available_capacity": 4,
+                    "min_age_limit": 18,
+                    "allow_all_age": true,
+                    "vaccine": "COVISHIELD",
+                    "slots": [
+                        "09:00AM-11:00AM",
+                        "11:00AM-01:00PM",
+                        "01:00PM-03:00PM",
+                        "03:00PM-05:00PM"
+                    ],
+                    "available_capacity_dose1": 0,
+                    "available_capacity_dose2": 4
+                }
+            ]
+        },
+        {
+            "center_id": 671924,
+            "name": "TRG TEMBHA PHC",
+            "address": "RURAL HOSPITAL KHARDI",
+            "state_name": "Maharashtra",
+            "district_name": "Thane",
+            "block_name": "Shahapur",
+            "pincode": 421601,
+            "lat": 19,
+            "long": 73,
+            "from": "09:00:00",
+            "to": "17:00:00",
+            "fee_type": "Free",
+            "sessions": [
+                {
+                    "session_id": "c6757eb5-08ba-4577-8f0a-6680c48dcade",
+                    "date": "03-07-2021",
+                    "available_capacity": 1,
+                    "min_age_limit": 18,
+                    "allow_all_age": true,
+                    "vaccine": "COVISHIELD",
+                    "slots": [
+                        "09:00AM-11:00AM",
+                        "11:00AM-01:00PM",
+                        "01:00PM-03:00PM",
+                        "03:00PM-05:00PM"
+                    ],
+                    "available_capacity_dose1": 0,
+                    "available_capacity_dose2": 1
+                }
+            ]
+        },
+        {
+            "center_id": 672343,
+            "name": "BNMC NAVI VASTI SCHOOL NO 85",
+            "address": "MUNICIPAL SCHOOL NO 85",
+            "state_name": "Maharashtra",
+            "district_name": "Thane",
+            "block_name": "Bhiwandi Municipal Corporation",
+            "pincode": 421302,
+            "lat": 19,
+            "long": 73,
+            "from": "09:00:00",
+            "to": "17:00:00",
+            "fee_type": "Free",
+            "sessions": [
+                {
+                    "session_id": "82f3a93d-243b-4ec3-9074-e0e65d08661c",
+                    "date": "03-07-2021",
+                    "available_capacity": 0,
+                    "min_age_limit": 45,
+                    "allow_all_age": false,
+                    "vaccine": "COVISHIELD",
+                    "slots": [
+                        "09:00AM-11:00AM",
+                        "11:00AM-01:00PM",
+                        "01:00PM-03:00PM",
+                        "03:00PM-05:00PM"
+                    ],
+                    "available_capacity_dose1": 0,
+                    "available_capacity_dose2": 0
+                },
+                {
+                    "session_id": "e0493a26-a5eb-4bc6-84c5-40484a2d157f",
+                    "date": "03-07-2021",
+                    "available_capacity": 0,
+                    "min_age_limit": 18,
+                    "max_age_limit": 44,
+                    "allow_all_age": false,
+                    "vaccine": "COVISHIELD",
+                    "slots": [
+                        "09:00AM-11:00AM",
+                        "11:00AM-01:00PM",
+                        "01:00PM-03:00PM",
+                        "03:00PM-05:00PM"
+                    ],
+                    "available_capacity_dose1": 0,
+                    "available_capacity_dose2": 0
+                }
+            ]
+        },
+        {
+            "center_id": 622686,
+            "name": "Apollo Hospital Navi Mumbai",
+            "address": "Plot 13 Parsik Hill Rd Sector 23 CBD Belapur Navi Mumbai Maharashtra 400614",
+            "state_name": "Maharashtra",
+            "district_name": "Thane",
+            "block_name": "Navi Mumbai Municipal Corporation",
+            "pincode": 400614,
+            "lat": 73,
+            "long": 19,
+            "from": "09:00:00",
+            "to": "18:00:00",
+            "fee_type": "Paid",
+            "sessions": [
+                {
+                    "session_id": "d6b0e4ed-071a-4967-8442-dd8c21308b15",
+                    "date": "03-07-2021",
+                    "available_capacity": 511,
+                    "min_age_limit": 18,
+                    "allow_all_age": true,
+                    "vaccine": "COVISHIELD",
+                    "slots": [
+                        "09:00AM-11:00AM",
+                        "11:00AM-01:00PM",
+                        "01:00PM-03:00PM",
+                        "03:00PM-06:00PM"
+                    ],
+                    "available_capacity_dose1": 29,
+                    "available_capacity_dose2": 482
+                },
+                {
+                    "session_id": "724e2fed-1c80-48fa-9b2b-ee82de811b27",
+                    "date": "03-07-2021",
+                    "available_capacity": 1467,
+                    "min_age_limit": 18,
+                    "allow_all_age": true,
+                    "vaccine": "COVAXIN",
+                    "slots": [
+                        "09:00AM-11:00AM",
+                        "11:00AM-01:00PM",
+                        "01:00PM-03:00PM",
+                        "03:00PM-06:00PM"
+                    ],
+                    "available_capacity_dose1": 1011,
+                    "available_capacity_dose2": 456
+                },
+                {
+                    "session_id": "b773cd51-c05e-46d0-8e8e-a714ffab8da0",
+                    "date": "04-07-2021",
+                    "available_capacity": 1705,
+                    "min_age_limit": 18,
+                    "allow_all_age": true,
+                    "vaccine": "COVAXIN",
+                    "slots": [
+                        "09:00AM-11:00AM",
+                        "11:00AM-01:00PM",
+                        "01:00PM-03:00PM",
+                        "03:00PM-06:00PM"
+                    ],
+                    "available_capacity_dose1": 1237,
+                    "available_capacity_dose2": 468
+                },
+                {
+                    "session_id": "6c6334ff-868d-4b34-b2fd-5e51b9fdaa83",
+                    "date": "04-07-2021",
+                    "available_capacity": 2009,
+                    "min_age_limit": 18,
+                    "allow_all_age": true,
+                    "vaccine": "COVISHIELD",
+                    "slots": [
+                        "09:00AM-11:00AM",
+                        "11:00AM-01:00PM",
+                        "01:00PM-03:00PM",
+                        "03:00PM-06:00PM"
+                    ],
+                    "available_capacity_dose1": 1236,
+                    "available_capacity_dose2": 773
+                },
+                {
+                    "session_id": "e129857a-3810-4af0-a84a-64e0b575f042",
+                    "date": "05-07-2021",
+                    "available_capacity": 2387,
+                    "min_age_limit": 18,
+                    "allow_all_age": true,
+                    "vaccine": "COVISHIELD",
+                    "slots": [
+                        "09:00AM-11:00AM",
+                        "11:00AM-01:00PM",
+                        "01:00PM-03:00PM",
+                        "03:00PM-06:00PM"
+                    ],
+                    "available_capacity_dose1": 1620,
+                    "available_capacity_dose2": 767
+                },
+                {
+                    "session_id": "28539876-5630-49bc-9879-d3d4afd9265e",
+                    "date": "05-07-2021",
+                    "available_capacity": 1833,
+                    "min_age_limit": 18,
+                    "allow_all_age": true,
+                    "vaccine": "COVAXIN",
+                    "slots": [
+                        "09:00AM-11:00AM",
+                        "11:00AM-01:00PM",
+                        "01:00PM-03:00PM",
+                        "03:00PM-06:00PM"
+                    ],
+                    "available_capacity_dose1": 1354,
+                    "available_capacity_dose2": 479
+                }
+            ],
+            "vaccine_fees": [
+                {
+                    "vaccine": "COVISHIELD",
+                    "fee": "780"
+                },
+                {
+                    "vaccine": "COVAXIN",
+                    "fee": "1410"
+                }
+            ]
+        },
+        {
+            "center_id": 67500,
+            "name": "TMC Kopari Maternity Hospital",
+            "address": "Bara Bungalow Rd Dhobi Ghat Opposite Saraswat Bank Kopri Thane East Thane Maharashtra",
+            "state_name": "Maharashtra",
+            "district_name": "Thane",
+            "block_name": "Thane Municipal Corporation",
+            "pincode": 400603,
+            "lat": 19,
+            "long": 72,
+            "from": "12:00:00",
+            "to": "16:00:00",
+            "fee_type": "Free",
+            "sessions": [
+                {
+                    "session_id": "6bffc18d-b601-47c7-b551-62013916868d",
+                    "date": "03-07-2021",
+                    "available_capacity": 0,
+                    "min_age_limit": 18,
+                    "allow_all_age": true,
+                    "vaccine": "COVAXIN",
+                    "slots": [
+                        "12:00PM-01:00PM",
+                        "01:00PM-02:00PM",
+                        "02:00PM-03:00PM",
+                        "03:00PM-04:00PM"
+                    ],
+                    "available_capacity_dose1": 0,
+                    "available_capacity_dose2": 0
+                }
+            ]
+        },
+        {
+            "center_id": 57295,
+            "name": "TRG SHENVA PHC",
+            "address": "Sheneva",
+            "state_name": "Maharashtra",
+            "district_name": "Thane",
+            "block_name": "Shahapur",
+            "pincode": 421601,
+            "lat": 19,
+            "long": 73,
+            "from": "09:00:00",
+            "to": "17:00:00",
+            "fee_type": "Free",
+            "sessions": [
+                {
+                    "session_id": "9f602129-4c01-44db-b331-0268115ccf16",
+                    "date": "03-07-2021",
+                    "available_capacity": 0,
+                    "min_age_limit": 18,
+                    "allow_all_age": true,
+                    "vaccine": "COVISHIELD",
+                    "slots": [
+                        "09:00AM-11:00AM",
+                        "11:00AM-01:00PM",
+                        "01:00PM-03:00PM",
+                        "03:00PM-05:00PM"
+                    ],
+                    "available_capacity_dose1": 0,
+                    "available_capacity_dose2": 0
+                }
+            ]
+        },
+        {
+            "center_id": 57273,
+            "name": "TRG SHIRGAON SC SHENDRUN",
+            "address": "SHIRGAON SC SHENDRUN SHAHAPUR",
+            "state_name": "Maharashtra",
+            "district_name": "Thane",
+            "block_name": "Shahapur",
+            "pincode": 421601,
+            "lat": 19,
+            "long": 73,
+            "from": "09:00:00",
+            "to": "17:00:00",
+            "fee_type": "Free",
+            "sessions": [
+                {
+                    "session_id": "a44a56f9-3d71-4c55-bbe7-05f50662605a",
+                    "date": "03-07-2021",
+                    "available_capacity": 0,
+                    "min_age_limit": 18,
+                    "allow_all_age": true,
+                    "vaccine": "COVISHIELD",
+                    "slots": [
+                        "09:00AM-11:00AM",
+                        "11:00AM-01:00PM",
+                        "01:00PM-03:00PM",
+                        "03:00PM-05:00PM"
+                    ],
+                    "available_capacity_dose1": 0,
+                    "available_capacity_dose2": 0
+                }
+            ]
+        },
+        {
+            "center_id": 56562,
+            "name": "BADLAPUR RH (45 PLUS)",
+            "address": "Rural Hospital Badlapur Rh",
+            "state_name": "Maharashtra",
+            "district_name": "Thane",
+            "block_name": "Ambernath",
+            "pincode": 421503,
+            "lat": 19,
+            "long": 73,
+            "from": "09:00:00",
+            "to": "17:00:00",
+            "fee_type": "Free",
+            "sessions": [
+                {
+                    "session_id": "56b047da-9273-4bf1-b9ad-5fa84a268a9d",
+                    "date": "03-07-2021",
+                    "available_capacity": 0,
+                    "min_age_limit": 18,
+                    "allow_all_age": true,
+                    "vaccine": "COVAXIN",
+                    "slots": [
+                        "09:00AM-11:00AM",
+                        "11:00AM-01:00PM",
+                        "01:00PM-03:00PM",
+                        "03:00PM-05:00PM"
+                    ],
+                    "available_capacity_dose1": 0,
+                    "available_capacity_dose2": 0
+                }
+            ]
+        },
+        {
+            "center_id": 619490,
+            "name": "Isha Netralaya Hospital Thane",
+            "address": "Dosti Imperia Shop No. 2 Manpada Opp Rmall Thane (W)",
+            "state_name": "Maharashtra",
+            "district_name": "Thane",
+            "block_name": "Thane Municipal Corporation",
+            "pincode": 400607,
+            "lat": 19,
+            "long": 72,
+            "from": "15:00:00",
+            "to": "19:00:00",
+            "fee_type": "Paid",
+            "sessions": [
+                {
+                    "session_id": "92664f76-ee78-4214-b04f-e590dfae9aa2",
+                    "date": "03-07-2021",
+                    "available_capacity": 37,
+                    "min_age_limit": 18,
+                    "allow_all_age": true,
+                    "vaccine": "COVAXIN",
+                    "slots": [
+                        "03:00PM-04:00PM",
+                        "04:00PM-05:00PM",
+                        "05:00PM-06:00PM",
+                        "06:00PM-07:00PM"
+                    ],
+                    "available_capacity_dose1": 3,
+                    "available_capacity_dose2": 34
+                },
+                {
+                    "session_id": "2bec93cf-708c-4d15-930c-d129479abea2",
+                    "date": "04-07-2021",
+                    "available_capacity": 83,
+                    "min_age_limit": 18,
+                    "allow_all_age": true,
+                    "vaccine": "COVAXIN",
+                    "slots": [
+                        "01:00PM-03:00PM",
+                        "03:00PM-04:00PM"
+                    ],
+                    "available_capacity_dose1": 0,
+                    "available_capacity_dose2": 83
+                },
+                {
+                    "session_id": "4ccfd912-4901-4e7c-9e26-dea788893e49",
+                    "date": "05-07-2021",
+                    "available_capacity": 86,
+                    "min_age_limit": 18,
+                    "allow_all_age": true,
+                    "vaccine": "COVAXIN",
+                    "slots": [
+                        "03:00PM-04:00PM",
+                        "04:00PM-05:00PM",
+                        "05:00PM-06:00PM",
+                        "06:00PM-07:00PM"
+                    ],
+                    "available_capacity_dose1": 0,
+                    "available_capacity_dose2": 86
+                },
+                {
+                    "session_id": "9cfd819f-82b8-4e9b-9de5-b51b9eeefb29",
+                    "date": "06-07-2021",
+                    "available_capacity": 79,
+                    "min_age_limit": 18,
+                    "allow_all_age": true,
+                    "vaccine": "COVAXIN",
+                    "slots": [
+                        "03:00PM-04:00PM",
+                        "04:00PM-05:00PM",
+                        "05:00PM-06:00PM",
+                        "06:00PM-07:00PM"
+                    ],
+                    "available_capacity_dose1": 0,
+                    "available_capacity_dose2": 79
+                },
+                {
+                    "session_id": "b5ff43c7-33db-4785-a31e-f7e64bef1a8f",
+                    "date": "07-07-2021",
+                    "available_capacity": 69,
+                    "min_age_limit": 18,
+                    "allow_all_age": true,
+                    "vaccine": "COVAXIN",
+                    "slots": [
+                        "03:00PM-04:00PM",
+                        "04:00PM-05:00PM",
+                        "05:00PM-06:00PM",
+                        "06:00PM-07:00PM"
+                    ],
+                    "available_capacity_dose1": 0,
+                    "available_capacity_dose2": 69
+                }
+            ],
+            "vaccine_fees": [
+                {
+                    "vaccine": "COVAXIN",
+                    "fee": "1410"
+                }
+            ]
+        },
+        {
+            "center_id": 627917,
+            "name": "RELIANCE HOSPITAL NAVI MUMBAI",
+            "address": "Thane - Belapur Road Opp. Kopar Khairane Station Next To Dhirubhai Ambani Knowledge City Navi Mumbai",
+            "state_name": "Maharashtra",
+            "district_name": "Thane",
+            "block_name": "Navi Mumbai Municipal Corporation",
+            "pincode": 400710,
+            "lat": 19,
+            "long": 73,
+            "from": "09:00:00",
+            "to": "18:00:00",
+            "fee_type": "Paid",
+            "sessions": [
+                {
+                    "session_id": "64c93431-936d-4476-817c-6fc6e5ebd2d8",
+                    "date": "03-07-2021",
+                    "available_capacity": 1,
+                    "min_age_limit": 18,
+                    "allow_all_age": true,
+                    "vaccine": "COVISHIELD",
+                    "slots": [
+                        "09:00AM-11:00AM",
+                        "11:00AM-01:00PM",
+                        "01:00PM-03:00PM",
+                        "03:00PM-06:00PM"
+                    ],
+                    "available_capacity_dose1": 1,
+                    "available_capacity_dose2": 0
+                },
+                {
+                    "session_id": "ffcc0003-3fa7-4a2e-bad8-6dcced8fc097",
+                    "date": "03-07-2021",
+                    "available_capacity": 1,
+                    "min_age_limit": 18,
+                    "allow_all_age": true,
+                    "vaccine": "COVAXIN",
+                    "slots": [
+                        "09:00AM-11:00AM",
+                        "11:00AM-01:00PM",
+                        "01:00PM-03:00PM",
+                        "03:00PM-06:00PM"
+                    ],
+                    "available_capacity_dose1": 1,
+                    "available_capacity_dose2": 0
+                },
+                {
+                    "session_id": "e116fc0a-fc2a-497b-9dc9-9d25ce079ad7",
+                    "date": "05-07-2021",
+                    "available_capacity": 147,
+                    "min_age_limit": 18,
+                    "allow_all_age": true,
+                    "vaccine": "COVISHIELD",
+                    "slots": [
+                        "09:00AM-11:00AM",
+                        "11:00AM-01:00PM",
+                        "01:00PM-03:00PM",
+                        "03:00PM-06:00PM"
+                    ],
+                    "available_capacity_dose1": 147,
+                    "available_capacity_dose2": 0
+                },
+                {
+                    "session_id": "a2cf05cc-a81a-46f5-8560-9a590a423788",
+                    "date": "05-07-2021",
+                    "available_capacity": 208,
+                    "min_age_limit": 18,
+                    "allow_all_age": true,
+                    "vaccine": "COVAXIN",
+                    "slots": [
+                        "09:00AM-11:00AM",
+                        "11:00AM-01:00PM",
+                        "01:00PM-03:00PM",
+                        "03:00PM-06:00PM"
+                    ],
+                    "available_capacity_dose1": 203,
+                    "available_capacity_dose2": 5
+                }
+            ],
+            "vaccine_fees": [
+                {
+                    "vaccine": "COVISHIELD",
+                    "fee": "780"
+                },
+                {
+                    "vaccine": "COVAXIN",
+                    "fee": "1200"
+                }
+            ]
+        },
+        {
+            "center_id": 67097,
+            "name": "NMMC Pawane UPHC",
+            "address": "Pawane Goan MIDC Industrial Area Pawne Navi Mumbai Maharashtra India",
+            "state_name": "Maharashtra",
+            "district_name": "Thane",
+            "block_name": "Navi Mumbai Municipal Corporation",
+            "pincode": 400703,
+            "lat": 19,
+            "long": 73,
+            "from": "09:00:00",
+            "to": "17:00:00",
+            "fee_type": "Free",
+            "sessions": [
+                {
+                    "session_id": "b94d5d92-45e0-40f0-8c1e-1098374f3010",
+                    "date": "03-07-2021",
+                    "available_capacity": 0,
+                    "min_age_limit": 18,
+                    "allow_all_age": true,
+                    "vaccine": "COVISHIELD",
+                    "slots": [
+                        "09:00AM-11:00AM",
+                        "11:00AM-01:00PM",
+                        "01:00PM-03:00PM",
+                        "03:00PM-05:00PM"
+                    ],
+                    "available_capacity_dose1": 0,
+                    "available_capacity_dose2": 0
+                }
+            ]
+        },
+        {
+            "center_id": 702315,
+            "name": "INVC-Family Vaccination Centre",
+            "address": "1A 1St Floor Vibgyor Near Hiranandani Estate Ghodbunder Rd Patlipada Thane Maharashtra",
+            "state_name": "Maharashtra",
+            "district_name": "Thane",
+            "block_name": "Thane Municipal Corporation",
+            "pincode": 400607,
+            "lat": 19,
+            "long": 72,
+            "from": "10:30:00",
+            "to": "18:00:00",
+            "fee_type": "Paid",
+            "sessions": [
+                {
+                    "session_id": "1c15f616-6fe6-4c97-8ac3-0a032268a943",
+                    "date": "03-07-2021",
+                    "available_capacity": 101,
+                    "min_age_limit": 45,
+                    "allow_all_age": false,
+                    "vaccine": "COVISHIELD",
+                    "slots": [
+                        "10:30AM-11:30AM",
+                        "11:30AM-12:30PM",
+                        "12:30PM-01:30PM",
+                        "01:30PM-06:00PM"
+                    ],
+                    "available_capacity_dose1": 99,
+                    "available_capacity_dose2": 2
+                },
+                {
+                    "session_id": "d5e89383-76b3-4dfb-9238-b8395e897734",
+                    "date": "03-07-2021",
+                    "available_capacity": 122,
+                    "min_age_limit": 18,
+                    "max_age_limit": 44,
+                    "allow_all_age": false,
+                    "vaccine": "COVISHIELD",
+                    "slots": [
+                        "10:30AM-11:30AM",
+                        "11:30AM-12:30PM",
+                        "12:30PM-01:30PM",
+                        "01:30PM-06:00PM"
+                    ],
+                    "available_capacity_dose1": 35,
+                    "available_capacity_dose2": 87
+                },
+                {
+                    "session_id": "b7961f90-7085-49e6-aeee-c97afbb423ad",
+                    "date": "04-07-2021",
+                    "available_capacity": 444,
+                    "min_age_limit": 18,
+                    "max_age_limit": 44,
+                    "allow_all_age": false,
+                    "vaccine": "COVISHIELD",
+                    "slots": [
+                        "10:30AM-11:30AM",
+                        "11:30AM-12:30PM",
+                        "12:30PM-01:30PM",
+                        "01:30PM-06:00PM"
+                    ],
+                    "available_capacity_dose1": 344,
+                    "available_capacity_dose2": 100
+                },
+                {
+                    "session_id": "9038f0de-5eb8-4131-9731-a24a291ee548",
+                    "date": "04-07-2021",
+                    "available_capacity": 495,
+                    "min_age_limit": 45,
+                    "allow_all_age": false,
+                    "vaccine": "COVISHIELD",
+                    "slots": [
+                        "10:30AM-11:30AM",
+                        "11:30AM-12:30PM",
+                        "12:30PM-01:30PM",
+                        "01:30PM-06:00PM"
+                    ],
+                    "available_capacity_dose1": 200,
+                    "available_capacity_dose2": 295
+                }
+            ],
+            "vaccine_fees": [
+                {
+                    "vaccine": "COVISHIELD",
+                    "fee": "780"
+                }
+            ]
+        },
+        {
+            "center_id": 650189,
+            "name": "NMMC ESIS Hosp 2",
+            "address": "Sector 5 Sector 9 Vashi Navi Mumbai",
+            "state_name": "Maharashtra",
+            "district_name": "Thane",
+            "block_name": "Navi Mumbai Municipal Corporation",
+            "pincode": 400703,
+            "lat": 19,
+            "long": 72,
+            "from": "09:00:00",
+            "to": "17:00:00",
+            "fee_type": "Free",
+            "sessions": [
+                {
+                    "session_id": "9cf1f8a3-b722-405b-a2c5-d1bca6892dfb",
+                    "date": "03-07-2021",
+                    "available_capacity": 0,
+                    "min_age_limit": 18,
+                    "allow_all_age": true,
+                    "vaccine": "COVISHIELD",
+                    "slots": [
+                        "09:00AM-11:00AM",
+                        "11:00AM-01:00PM",
+                        "01:00PM-03:00PM",
+                        "03:00PM-05:00PM"
+                    ],
+                    "available_capacity_dose1": 0,
+                    "available_capacity_dose2": 0
+                }
+            ]
+        },
+        {
+            "center_id": 618085,
+            "name": "Sapphire Hospital TMC Thane",
+            "address": "Kaveri Heights Opposite Old Mhatre Talao Premnagar Kharegaon Kalwa West Thane Maharashtra",
+            "state_name": "Maharashtra",
+            "district_name": "Thane",
+            "block_name": "Thane Municipal Corporation",
+            "pincode": 400605,
+            "lat": 19,
+            "long": 73,
+            "from": "12:00:00",
+            "to": "17:00:00",
+            "fee_type": "Paid",
+            "sessions": [
+                {
+                    "session_id": "fad8a13a-f9d0-498d-9edc-8799e861c6fd",
+                    "date": "03-07-2021",
+                    "available_capacity": 8,
+                    "min_age_limit": 18,
+                    "max_age_limit": 44,
+                    "allow_all_age": false,
+                    "vaccine": "COVISHIELD",
+                    "slots": [
+                        "12:00PM-01:00PM",
+                        "01:00PM-02:00PM",
+                        "02:00PM-03:00PM",
+                        "03:00PM-05:00PM"
+                    ],
+                    "available_capacity_dose1": 0,
+                    "available_capacity_dose2": 8
+                },
+                {
+                    "session_id": "d45dabd3-ef31-4b18-86ac-7c55528b0792",
+                    "date": "03-07-2021",
+                    "available_capacity": 0,
+                    "min_age_limit": 45,
+                    "allow_all_age": false,
+                    "vaccine": "COVISHIELD",
+                    "slots": [
+                        "12:00PM-01:00PM",
+                        "01:00PM-02:00PM",
+                        "02:00PM-03:00PM",
+                        "03:00PM-05:00PM"
+                    ],
+                    "available_capacity_dose1": 0,
+                    "available_capacity_dose2": 0
+                }
+            ],
+            "vaccine_fees": [
+                {
+                    "vaccine": "COVISHIELD",
+                    "fee": "780"
+                }
+            ]
+        },
+        {
+            "center_id": 696536,
+            "name": "TRG ATGAON SC AGHAI",
+            "address": "ATGAON SC NEAR ATGAON STATION SHAHAPUR",
+            "state_name": "Maharashtra",
+            "district_name": "Thane",
+            "block_name": "Shahapur",
+            "pincode": 421601,
+            "lat": 19,
+            "long": 73,
+            "from": "09:00:00",
+            "to": "17:00:00",
+            "fee_type": "Free",
+            "sessions": [
+                {
+                    "session_id": "b5205434-f71a-4a45-99d1-8a81b713390b",
+                    "date": "03-07-2021",
+                    "available_capacity": 0,
+                    "min_age_limit": 18,
+                    "allow_all_age": true,
+                    "vaccine": "COVISHIELD",
+                    "slots": [
+                        "09:00AM-11:00AM",
+                        "11:00AM-01:00PM",
+                        "01:00PM-03:00PM",
+                        "03:00PM-05:00PM"
+                    ],
+                    "available_capacity_dose1": 0,
+                    "available_capacity_dose2": 0
+                }
+            ]
+        },
+        {
+            "center_id": 703267,
+            "name": "Apollo Clinic Thane",
+            "address": "Z-5 Flower Valley Complex Khopat Service Rd Opp Viviana Mall Next To Car Galaxy Showroom",
+            "state_name": "Maharashtra",
+            "district_name": "Thane",
+            "block_name": "Thane Municipal Corporation",
+            "pincode": 400601,
+            "lat": 19,
+            "long": 72,
+            "from": "13:00:00",
+            "to": "17:30:00",
+            "fee_type": "Paid",
+            "sessions": [
+                {
+                    "session_id": "17b71b39-da00-4b54-9866-9a8874123d54",
+                    "date": "03-07-2021",
+                    "available_capacity": 0,
+                    "min_age_limit": 45,
+                    "allow_all_age": false,
+                    "vaccine": "COVAXIN",
+                    "slots": [
+                        "01:00PM-02:00PM",
+                        "02:00PM-03:00PM",
+                        "03:00PM-04:00PM",
+                        "04:00PM-05:30PM"
+                    ],
+                    "available_capacity_dose1": 0,
+                    "available_capacity_dose2": 0
+                },
+                {
+                    "session_id": "02927cb6-c1f6-4984-9023-703e267ff122",
+                    "date": "03-07-2021",
+                    "available_capacity": 1,
+                    "min_age_limit": 18,
+                    "max_age_limit": 44,
+                    "allow_all_age": false,
+                    "vaccine": "COVAXIN",
+                    "slots": [
+                        "01:00PM-02:00PM",
+                        "02:00PM-03:00PM",
+                        "03:00PM-04:00PM",
+                        "04:00PM-05:30PM"
+                    ],
+                    "available_capacity_dose1": 1,
+                    "available_capacity_dose2": 0
+                },
+                {
+                    "session_id": "b38af7a5-0775-4a3e-ace8-250bbcf68425",
+                    "date": "04-07-2021",
+                    "available_capacity": 58,
+                    "min_age_limit": 45,
+                    "allow_all_age": false,
+                    "vaccine": "COVISHIELD",
+                    "slots": [
+                        "09:00AM-10:00AM",
+                        "10:00AM-11:00AM",
+                        "11:00AM-12:00PM",
+                        "12:00PM-01:00PM"
+                    ],
+                    "available_capacity_dose1": 5,
+                    "available_capacity_dose2": 53
+                },
+                {
+                    "session_id": "3541caae-8284-4887-9839-bece793f8c54",
+                    "date": "04-07-2021",
+                    "available_capacity": 8,
+                    "min_age_limit": 18,
+                    "max_age_limit": 44,
+                    "allow_all_age": false,
+                    "vaccine": "COVISHIELD",
+                    "slots": [
+                        "09:00AM-10:00AM",
+                        "10:00AM-11:00AM",
+                        "11:00AM-12:00PM",
+                        "12:00PM-01:00PM"
+                    ],
+                    "available_capacity_dose1": 8,
+                    "available_capacity_dose2": 0
+                }
+            ],
+            "vaccine_fees": [
+                {
+                    "vaccine": "COVAXIN",
+                    "fee": "1410"
+                },
+                {
+                    "vaccine": "COVISHIELD",
+                    "fee": "780"
+                }
+            ]
+        },
+        {
+            "center_id": 631865,
+            "name": "NMMC Meenatai Thakare Hos (2)",
+            "address": "NERUL NEAR RAILWAY STATION NAVI MUMBAI",
+            "state_name": "Maharashtra",
+            "district_name": "Thane",
+            "block_name": "Navi Mumbai Municipal Corporation",
+            "pincode": 400706,
+            "lat": 19,
+            "long": 73,
+            "from": "09:00:00",
+            "to": "17:00:00",
+            "fee_type": "Free",
+            "sessions": [
+                {
+                    "session_id": "12995d66-4a17-4460-93fd-2ba152a0fa51",
+                    "date": "03-07-2021",
+                    "available_capacity": 0,
+                    "min_age_limit": 18,
+                    "max_age_limit": 44,
+                    "allow_all_age": false,
+                    "vaccine": "COVAXIN",
+                    "slots": [
+                        "09:00AM-11:00AM",
+                        "11:00AM-01:00PM",
+                        "01:00PM-03:00PM",
+                        "03:00PM-05:00PM"
+                    ],
+                    "available_capacity_dose1": 0,
+                    "available_capacity_dose2": 0
+                },
+                {
+                    "session_id": "58439c75-343a-4360-ac4b-227ecf2165c2",
+                    "date": "03-07-2021",
+                    "available_capacity": 0,
+                    "min_age_limit": 45,
+                    "allow_all_age": false,
+                    "vaccine": "COVAXIN",
+                    "slots": [
+                        "09:00AM-11:00AM",
+                        "11:00AM-01:00PM",
+                        "01:00PM-03:00PM",
+                        "03:00PM-05:00PM"
+                    ],
+                    "available_capacity_dose1": 0,
+                    "available_capacity_dose2": 0
+                },
+                {
+                    "session_id": "326f5d1b-4b04-4576-b986-44e8f8273b43",
+                    "date": "04-07-2021",
+                    "available_capacity": 0,
+                    "min_age_limit": 18,
+                    "max_age_limit": 44,
+                    "allow_all_age": false,
+                    "vaccine": "COVAXIN",
+                    "slots": [
+                        "09:00AM-11:00AM",
+                        "11:00AM-01:00PM",
+                        "01:00PM-03:00PM",
+                        "03:00PM-05:00PM"
+                    ],
+                    "available_capacity_dose1": 0,
+                    "available_capacity_dose2": 0
+                },
+                {
+                    "session_id": "1e3ee0bd-3b10-47d7-be57-00b84f7fbe00",
+                    "date": "04-07-2021",
+                    "available_capacity": 1,
+                    "min_age_limit": 45,
+                    "allow_all_age": false,
+                    "vaccine": "COVAXIN",
+                    "slots": [
+                        "09:00AM-11:00AM",
+                        "11:00AM-01:00PM",
+                        "01:00PM-03:00PM",
+                        "03:00PM-05:00PM"
+                    ],
+                    "available_capacity_dose1": 0,
+                    "available_capacity_dose2": 1
+                }
+            ]
+        },
+        {
+            "center_id": 699984,
+            "name": "Apollo Clinic Vashi Navi Mumb",
+            "address": "Apollo Clinic Plot No 195 B The Emerald Sector 12 Vashi Besides Neel Siddhi Towers Navi Mumbai Maharashtra India",
+            "state_name": "Maharashtra",
+            "district_name": "Thane",
+            "block_name": "Navi Mumbai Municipal Corporation",
+            "pincode": 400703,
+            "lat": 19,
+            "long": 73,
+            "from": "09:00:00",
+            "to": "10:00:00",
+            "fee_type": "Paid",
+            "sessions": [
+                {
+                    "session_id": "fdb76d5f-7ab6-4dfe-bced-9ea6fc580fc8",
+                    "date": "03-07-2021",
+                    "available_capacity": 0,
+                    "min_age_limit": 45,
+                    "allow_all_age": false,
+                    "vaccine": "COVISHIELD",
+                    "slots": [
+                        "09:00AM-10:00AM"
+                    ],
+                    "available_capacity_dose1": 0,
+                    "available_capacity_dose2": 0
+                },
+                {
+                    "session_id": "6a5d2055-776e-4456-aca5-8ec5c8b29277",
+                    "date": "03-07-2021",
+                    "available_capacity": 0,
+                    "min_age_limit": 18,
+                    "max_age_limit": 44,
+                    "allow_all_age": false,
+                    "vaccine": "COVISHIELD",
+                    "slots": [
+                        "09:00AM-10:00AM"
+                    ],
+                    "available_capacity_dose1": 0,
+                    "available_capacity_dose2": 0
+                }
+            ],
+            "vaccine_fees": [
+                {
+                    "vaccine": "COVISHIELD",
+                    "fee": "780"
+                }
+            ]
+        },
+        {
+            "center_id": 67083,
+            "name": "NMMC Nocil Naka UPHC",
+            "address": "UPHC NOCILNAKA",
+            "state_name": "Maharashtra",
+            "district_name": "Thane",
+            "block_name": "Navi Mumbai Municipal Corporation",
+            "pincode": 400701,
+            "lat": 19,
+            "long": 73,
+            "from": "09:00:00",
+            "to": "17:00:00",
+            "fee_type": "Free",
+            "sessions": [
+                {
+                    "session_id": "8ebcc37f-f294-4f16-8872-6a77d4b02af2",
+                    "date": "03-07-2021",
+                    "available_capacity": 0,
+                    "min_age_limit": 18,
+                    "allow_all_age": true,
+                    "vaccine": "COVISHIELD",
+                    "slots": [
+                        "09:00AM-11:00AM",
+                        "11:00AM-01:00PM",
+                        "01:00PM-03:00PM",
+                        "03:00PM-05:00PM"
+                    ],
+                    "available_capacity_dose1": 0,
+                    "available_capacity_dose2": 0
+                }
+            ]
+        },
+        {
+            "center_id": 744087,
+            "name": "KDMCG ATRE RANGMANDIR NATYAGRU",
+            "address": "SHIVAJI CHOWK BAZAR PETH NEAR SUBHASH MAIDAN BHOIWADA KALYAN WEST",
+            "state_name": "Maharashtra",
+            "district_name": "Thane",
+            "block_name": "Kalyan Dombivali Municipal Corporation",
+            "pincode": 421301,
+            "lat": 19,
+            "long": 73,
+            "from": "10:00:00",
+            "to": "20:00:00",
+            "fee_type": "Free",
+            "sessions": [
+                {
+                    "session_id": "fcac7f74-8165-4497-90fb-9de483c8659e",
+                    "date": "03-07-2021",
+                    "available_capacity": 0,
+                    "min_age_limit": 18,
+                    "allow_all_age": true,
+                    "vaccine": "COVISHIELD",
+                    "slots": [
+                        "10:00AM-12:00PM",
+                        "12:00PM-02:00PM",
+                        "02:00PM-04:00PM",
+                        "04:00PM-08:00PM"
+                    ],
+                    "available_capacity_dose1": 0,
+                    "available_capacity_dose2": 0
+                }
+            ]
+        },
+        {
+            "center_id": 57085,
+            "name": "Mhasa PHC",
+            "address": "PHC Mhasa",
+            "state_name": "Maharashtra",
+            "district_name": "Thane",
+            "block_name": "Murbad",
+            "pincode": 421401,
+            "lat": 19,
+            "long": 73,
+            "from": "09:00:00",
+            "to": "17:00:00",
+            "fee_type": "Free",
+            "sessions": [
+                {
+                    "session_id": "f8d1149a-99f6-4c3e-bdb7-66fccc411a13",
+                    "date": "03-07-2021",
+                    "available_capacity": 0,
+                    "min_age_limit": 18,
+                    "allow_all_age": true,
+                    "vaccine": "COVISHIELD",
+                    "slots": [
+                        "09:00AM-11:00AM",
+                        "11:00AM-01:00PM",
+                        "01:00PM-03:00PM",
+                        "03:00PM-05:00PM"
+                    ],
+                    "available_capacity_dose1": 0,
+                    "available_capacity_dose2": 0
+                }
+            ]
+        },
+        {
+            "center_id": 703253,
+            "name": "Neon Hospital",
+            "address": "Mukta ArcadeNear Padle Gaon Bus StopKalyan Shill Road Thane",
+            "state_name": "Maharashtra",
+            "district_name": "Thane",
+            "block_name": "Kalyan Dombivali Municipal Corporation",
+            "pincode": 421204,
+            "lat": 19,
+            "long": 73,
+            "from": "09:00:00",
+            "to": "16:00:00",
+            "fee_type": "Paid",
+            "sessions": [
+                {
+                    "session_id": "aa01f5b1-4dbe-4290-b598-37cc97e60fe4",
+                    "date": "03-07-2021",
+                    "available_capacity": 0,
+                    "min_age_limit": 45,
+                    "allow_all_age": false,
+                    "vaccine": "COVISHIELD",
+                    "slots": [
+                        "09:00AM-11:00AM",
+                        "11:00AM-01:00PM",
+                        "01:00PM-03:00PM",
+                        "03:00PM-04:00PM"
+                    ],
+                    "available_capacity_dose1": 0,
+                    "available_capacity_dose2": 0
+                },
+                {
+                    "session_id": "0e81abbe-34fd-4638-9fd5-cc9ea35fa244",
+                    "date": "03-07-2021",
+                    "available_capacity": 29,
+                    "min_age_limit": 18,
+                    "max_age_limit": 44,
+                    "allow_all_age": false,
+                    "vaccine": "COVAXIN",
+                    "slots": [
+                        "10:30AM-11:30AM",
+                        "11:30AM-12:30PM",
+                        "12:30PM-01:30PM",
+                        "01:30PM-06:00PM"
+                    ],
+                    "available_capacity_dose1": 8,
+                    "available_capacity_dose2": 21
+                },
+                {
+                    "session_id": "1756b1ad-7467-4a00-92b6-38574666a6f1",
+                    "date": "03-07-2021",
+                    "available_capacity": 17,
+                    "min_age_limit": 18,
+                    "max_age_limit": 44,
+                    "allow_all_age": false,
+                    "vaccine": "COVISHIELD",
+                    "slots": [
+                        "10:00AM-12:00PM",
+                        "12:00PM-02:00PM",
+                        "02:00PM-04:00PM",
+                        "04:00PM-06:00PM"
+                    ],
+                    "available_capacity_dose1": 0,
+                    "available_capacity_dose2": 17
+                },
+                {
+                    "session_id": "b02bb596-3bf5-45a8-a837-6039ff48d5be",
+                    "date": "03-07-2021",
+                    "available_capacity": 147,
+                    "min_age_limit": 45,
+                    "allow_all_age": false,
+                    "vaccine": "COVAXIN",
+                    "slots": [
+                        "09:00AM-10:00AM",
+                        "10:00AM-11:00AM",
+                        "11:00AM-12:00PM",
+                        "12:00PM-02:00PM"
+                    ],
+                    "available_capacity_dose1": 87,
+                    "available_capacity_dose2": 60
+                },
+                {
+                    "session_id": "ece6725d-60e7-4328-a346-26119f8237a7",
+                    "date": "04-07-2021",
+                    "available_capacity": 30,
+                    "min_age_limit": 18,
+                    "max_age_limit": 44,
+                    "allow_all_age": false,
+                    "vaccine": "COVAXIN",
+                    "slots": [
+                        "10:00AM-12:00PM",
+                        "12:00PM-02:00PM",
+                        "02:00PM-04:00PM",
+                        "04:00PM-05:00PM"
+                    ],
+                    "available_capacity_dose1": 0,
+                    "available_capacity_dose2": 30
+                }
+            ],
+            "vaccine_fees": [
+                {
+                    "vaccine": "COVISHIELD",
+                    "fee": "780"
+                },
+                {
+                    "vaccine": "COVAXIN",
+                    "fee": "1410"
+                }
+            ]
+        },
+        {
+            "center_id": 617729,
+            "name": "Kishor PHC",
+            "address": "Kishor PHC",
+            "state_name": "Maharashtra",
+            "district_name": "Thane",
+            "block_name": "Murbad",
+            "pincode": 421401,
+            "lat": 19,
+            "long": 73,
+            "from": "09:00:00",
+            "to": "17:00:00",
+            "fee_type": "Free",
+            "sessions": [
+                {
+                    "session_id": "61ffc834-55a1-4df9-9df2-75d9db01d440",
+                    "date": "03-07-2021",
+                    "available_capacity": 0,
+                    "min_age_limit": 18,
+                    "allow_all_age": true,
+                    "vaccine": "COVISHIELD",
+                    "slots": [
+                        "09:00AM-11:00AM",
+                        "11:00AM-01:00PM",
+                        "01:00PM-03:00PM",
+                        "03:00PM-05:00PM"
+                    ],
+                    "available_capacity_dose1": 0,
+                    "available_capacity_dose2": 0
+                }
+            ]
+        },
+        {
+            "center_id": 56624,
+            "name": "DABHAD PHC",
+            "address": "Phc Dabhad",
+            "state_name": "Maharashtra",
+            "district_name": "Thane",
+            "block_name": "Bhiwandi",
+            "pincode": 421301,
+            "lat": 19,
+            "long": 73,
+            "from": "09:00:00",
+            "to": "17:00:00",
+            "fee_type": "Free",
+            "sessions": [
+                {
+                    "session_id": "ae946d36-d0f3-40e0-8c21-e83ac7b8b871",
+                    "date": "03-07-2021",
+                    "available_capacity": 0,
+                    "min_age_limit": 18,
+                    "allow_all_age": true,
+                    "vaccine": "COVISHIELD",
+                    "slots": [
+                        "09:00AM-11:00AM",
+                        "11:00AM-01:00PM",
+                        "01:00PM-03:00PM",
+                        "03:00PM-05:00PM"
+                    ],
+                    "available_capacity_dose1": 0,
+                    "available_capacity_dose2": 0
+                }
+            ]
+        },
+        {
+            "center_id": 616377,
+            "name": "KDMCG ART GALLARY KALYAN W",
+            "address": "Behind Ganpati Madir Lal Chowki Kalyan West",
+            "state_name": "Maharashtra",
+            "district_name": "Thane",
+            "block_name": "Kalyan Dombivali Municipal Corporation",
+            "pincode": 421301,
+            "lat": 19,
+            "long": 73,
+            "from": "10:00:00",
+            "to": "17:00:00",
+            "fee_type": "Free",
+            "sessions": [
+                {
+                    "session_id": "76e09698-9a72-4536-8122-93d39bfb1644",
+                    "date": "03-07-2021",
+                    "available_capacity": 0,
+                    "min_age_limit": 18,
+                    "allow_all_age": true,
+                    "vaccine": "COVISHIELD",
+                    "slots": [
+                        "10:00AM-12:00PM",
+                        "12:00PM-02:00PM",
+                        "02:00PM-04:00PM",
+                        "04:00PM-05:00PM"
+                    ],
+                    "available_capacity_dose1": 0,
+                    "available_capacity_dose2": 0
+                }
+            ]
+        },
+        {
+            "center_id": 722700,
+            "name": "PKC Hospital Vashi Navimumbai",
+            "address": "Plot No 57 Sector 15A Vashi Navi Mumbai Maharashtra India",
+            "state_name": "Maharashtra",
+            "district_name": "Thane",
+            "block_name": "Navi Mumbai Municipal Corporation",
+            "pincode": 400703,
+            "lat": 19,
+            "long": 73,
+            "from": "09:30:00",
+            "to": "16:30:00",
+            "fee_type": "Paid",
+            "sessions": [
+                {
+                    "session_id": "5c80b4ec-3085-4074-b588-0aa2fd39e9f5",
+                    "date": "03-07-2021",
+                    "available_capacity": 37,
+                    "min_age_limit": 45,
+                    "allow_all_age": false,
+                    "vaccine": "COVISHIELD",
+                    "slots": [
+                        "09:30AM-11:30AM",
+                        "11:30AM-01:30PM",
+                        "01:30PM-03:30PM",
+                        "03:30PM-04:30PM"
+                    ],
+                    "available_capacity_dose1": 37,
+                    "available_capacity_dose2": 0
+                },
+                {
+                    "session_id": "cdde9de4-f153-4357-afc1-56ab214c9917",
+                    "date": "03-07-2021",
+                    "available_capacity": 91,
+                    "min_age_limit": 18,
+                    "max_age_limit": 44,
+                    "allow_all_age": false,
+                    "vaccine": "COVISHIELD",
+                    "slots": [
+                        "09:30AM-11:30AM",
+                        "11:30AM-01:30PM",
+                        "01:30PM-03:30PM",
+                        "03:30PM-04:30PM"
+                    ],
+                    "available_capacity_dose1": 0,
+                    "available_capacity_dose2": 91
+                }
+            ],
+            "vaccine_fees": [
+                {
+                    "vaccine": "COVISHIELD",
+                    "fee": "780"
+                }
+            ]
+        },
+        {
+            "center_id": 608233,
+            "name": "MPCT Hospital Navi Mumbai",
+            "address": "C7 Budhyadev Mandir Marg Sector 4 Sanpada Navi Mumbai",
+            "state_name": "Maharashtra",
+            "district_name": "Thane",
+            "block_name": "Navi Mumbai Municipal Corporation",
+            "pincode": 400705,
+            "lat": 19,
+            "long": 73,
+            "from": "09:00:00",
+            "to": "17:00:00",
+            "fee_type": "Paid",
+            "sessions": [
+                {
+                    "session_id": "645d70c5-ed14-4e2d-8cef-a3e017c1977d",
+                    "date": "03-07-2021",
+                    "available_capacity": 3,
+                    "min_age_limit": 18,
+                    "max_age_limit": 44,
+                    "allow_all_age": false,
+                    "vaccine": "COVISHIELD",
+                    "slots": [
+                        "09:00AM-11:00AM",
+                        "11:00AM-01:00PM",
+                        "01:00PM-03:00PM",
+                        "03:00PM-05:00PM"
+                    ],
+                    "available_capacity_dose1": 3,
+                    "available_capacity_dose2": 0
+                },
+                {
+                    "session_id": "94c7338d-4f59-4b39-9156-913505a7daef",
+                    "date": "03-07-2021",
+                    "available_capacity": 610,
+                    "min_age_limit": 45,
+                    "allow_all_age": false,
+                    "vaccine": "COVISHIELD",
+                    "slots": [
+                        "09:00AM-11:00AM",
+                        "11:00AM-01:00PM",
+                        "01:00PM-03:00PM",
+                        "03:00PM-05:00PM"
+                    ],
+                    "available_capacity_dose1": 298,
+                    "available_capacity_dose2": 312
+                },
+                {
+                    "session_id": "dbd7cefc-b153-42a3-b075-8a455df1e535",
+                    "date": "04-07-2021",
+                    "available_capacity": 997,
+                    "min_age_limit": 45,
+                    "allow_all_age": false,
+                    "vaccine": "COVISHIELD",
+                    "slots": [
+                        "09:00AM-11:00AM",
+                        "11:00AM-01:00PM",
+                        "01:00PM-03:00PM",
+                        "03:00PM-05:00PM"
+                    ],
+                    "available_capacity_dose1": 341,
+                    "available_capacity_dose2": 656
+                },
+                {
+                    "session_id": "28ad2e31-3c06-43c2-b001-c7b1ce38af8d",
+                    "date": "04-07-2021",
+                    "available_capacity": 82,
+                    "min_age_limit": 18,
+                    "max_age_limit": 44,
+                    "allow_all_age": false,
+                    "vaccine": "COVISHIELD",
+                    "slots": [
+                        "09:00AM-11:00AM",
+                        "11:00AM-01:00PM",
+                        "01:00PM-03:00PM",
+                        "03:00PM-05:00PM"
+                    ],
+                    "available_capacity_dose1": 82,
+                    "available_capacity_dose2": 0
+                },
+                {
+                    "session_id": "e286de65-5e7e-401f-8573-454bd6f828d4",
+                    "date": "05-07-2021",
+                    "available_capacity": 1090,
+                    "min_age_limit": 45,
+                    "allow_all_age": false,
+                    "vaccine": "COVISHIELD",
+                    "slots": [
+                        "09:00AM-11:00AM",
+                        "11:00AM-01:00PM",
+                        "01:00PM-03:00PM",
+                        "03:00PM-05:00PM"
+                    ],
+                    "available_capacity_dose1": 379,
+                    "available_capacity_dose2": 711
+                },
+                {
+                    "session_id": "427e40f6-27ca-4eae-bdf0-f30f033e1d0f",
+                    "date": "05-07-2021",
+                    "available_capacity": 266,
+                    "min_age_limit": 18,
+                    "max_age_limit": 44,
+                    "allow_all_age": false,
+                    "vaccine": "COVISHIELD",
+                    "slots": [
+                        "09:00AM-11:00AM",
+                        "11:00AM-01:00PM",
+                        "01:00PM-03:00PM",
+                        "03:00PM-05:00PM"
+                    ],
+                    "available_capacity_dose1": 266,
+                    "available_capacity_dose2": 0
+                }
+            ],
+            "vaccine_fees": [
+                {
+                    "vaccine": "COVISHIELD",
+                    "fee": "780"
+                }
+            ]
+        },
+        {
+            "center_id": 56350,
+            "name": "ORD. FACTORY AMBERNATH 45 PLUS",
+            "address": "ORDNANCE FACTORY HOSPITAL Kalyan-Badlapur Rd Ambernath-W",
+            "state_name": "Maharashtra",
+            "district_name": "Thane",
+            "block_name": "Ambernath",
+            "pincode": 421502,
+            "lat": 19,
+            "long": 73,
+            "from": "09:00:00",
+            "to": "16:00:00",
+            "fee_type": "Free",
+            "sessions": [
+                {
+                    "session_id": "ef86a3ef-a664-45e6-8b93-8c29cd3ebaae",
+                    "date": "03-07-2021",
+                    "available_capacity": 71,
+                    "min_age_limit": 18,
+                    "allow_all_age": true,
+                    "vaccine": "COVAXIN",
+                    "slots": [
+                        "09:00AM-11:00AM",
+                        "11:00AM-01:00PM",
+                        "01:00PM-03:00PM",
+                        "03:00PM-04:00PM"
+                    ],
+                    "available_capacity_dose1": 0,
+                    "available_capacity_dose2": 71
+                }
+            ]
+        },
+        {
+            "center_id": 617670,
+            "name": "NMMC MCH TURBHE",
+            "address": "Plot No.446 Sector-22 Near Turbhe Talao Turbhegaon Navi Mumbai Maharashtra",
+            "state_name": "Maharashtra",
+            "district_name": "Thane",
+            "block_name": "Navi Mumbai Municipal Corporation",
+            "pincode": 400705,
+            "lat": 19,
+            "long": 73,
+            "from": "09:00:00",
+            "to": "17:00:00",
+            "fee_type": "Free",
+            "sessions": [
+                {
+                    "session_id": "5112c930-3444-4110-b041-e20cc98afbb8",
+                    "date": "03-07-2021",
+                    "available_capacity": 0,
+                    "min_age_limit": 18,
+                    "allow_all_age": true,
+                    "vaccine": "COVISHIELD",
+                    "slots": [
+                        "09:00AM-11:00AM",
+                        "11:00AM-01:00PM",
+                        "01:00PM-03:00PM",
+                        "03:00PM-05:00PM"
+                    ],
+                    "available_capacity_dose1": 0,
+                    "available_capacity_dose2": 0
+                }
+            ]
+        },
+        {
+            "center_id": 698468,
+            "name": "S.S. Hospital Kalher",
+            "address": "Pavanputra Enclave Opp. Jain Temple Thane Bhiwandi Road Village Kalher Bhiwandi",
+            "state_name": "Maharashtra",
+            "district_name": "Thane",
+            "block_name": "Bhiwandi",
+            "pincode": 421302,
+            "lat": 19,
+            "long": 73,
+            "from": "10:00:00",
+            "to": "17:30:00",
+            "fee_type": "Paid",
+            "sessions": [
+                {
+                    "session_id": "28d57b70-407e-4364-ab92-83240ff92277",
+                    "date": "03-07-2021",
+                    "available_capacity": 230,
+                    "min_age_limit": 45,
+                    "vaccine": "COVISHIELD",
+                    "slots": [
+                        "10:00AM-11:00AM",
+                        "11:00AM-12:00PM",
+                        "12:00PM-01:00PM",
+                        "01:00PM-05:30PM"
+                    ],
+                    "available_capacity_dose1": 109,
+                    "available_capacity_dose2": 121
+                },
+                {
+                    "session_id": "4722a3ee-fd1d-48a8-8700-a75c962701fa",
+                    "date": "03-07-2021",
+                    "available_capacity": 447,
+                    "min_age_limit": 18,
+                    "max_age_limit": 44,
+                    "vaccine": "COVISHIELD",
+                    "slots": [
+                        "10:00AM-11:00AM",
+                        "11:00AM-12:00PM",
+                        "12:00PM-01:00PM",
+                        "01:00PM-05:30PM"
+                    ],
+                    "available_capacity_dose1": 249,
+                    "available_capacity_dose2": 198
+                },
+                {
+                    "session_id": "67841552-2132-43aa-9beb-d5cbea6e66a5",
+                    "date": "04-07-2021",
+                    "available_capacity": 1105,
+                    "min_age_limit": 18,
+                    "allow_all_age": true,
+                    "vaccine": "COVISHIELD",
+                    "slots": [
+                        "10:30AM-12:30PM",
+                        "12:30PM-02:30PM",
+                        "02:30PM-04:30PM",
+                        "04:30PM-05:30PM"
+                    ],
+                    "available_capacity_dose1": 632,
+                    "available_capacity_dose2": 473
+                }
+            ],
+            "vaccine_fees": [
+                {
+                    "vaccine": "COVISHIELD",
+                    "fee": "780"
+                }
+            ]
+        },
+        {
+            "center_id": 617593,
+            "name": "NMMC Karave UPHC",
+            "address": "UHP Karave Seawoods West Karave Village Karave Nagar Seawoods Navi Mumbai Maharashtra India",
+            "state_name": "Maharashtra",
+            "district_name": "Thane",
+            "block_name": "Navi Mumbai Municipal Corporation",
+            "pincode": 400614,
+            "lat": 19,
+            "long": 73,
+            "from": "09:00:00",
+            "to": "17:00:00",
+            "fee_type": "Free",
+            "sessions": [
+                {
+                    "session_id": "8018bc05-9834-4286-a19a-445131be7239",
+                    "date": "03-07-2021",
+                    "available_capacity": 0,
+                    "min_age_limit": 18,
+                    "allow_all_age": true,
+                    "vaccine": "COVISHIELD",
+                    "slots": [
+                        "09:00AM-11:00AM",
+                        "11:00AM-01:00PM",
+                        "01:00PM-03:00PM",
+                        "03:00PM-05:00PM"
+                    ],
+                    "available_capacity_dose1": 0,
+                    "available_capacity_dose2": 0
+                }
+            ]
+        },
+        {
+            "center_id": 608829,
+            "name": "R N Patil Suraj Hosp Navi Mumb",
+            "address": "Sun Palm View Bldg Opp. Palm Beach Marg Plot No. 1 1A Sector 15 Sanpada Navi Mumbai",
+            "state_name": "Maharashtra",
+            "district_name": "Thane",
+            "block_name": "Navi Mumbai Municipal Corporation",
+            "pincode": 400705,
+            "lat": 19,
+            "long": 73,
+            "from": "09:00:00",
+            "to": "16:00:00",
+            "fee_type": "Paid",
+            "sessions": [
+                {
+                    "session_id": "304878a1-9fe6-4e50-b5dc-9f90d95f4c5b",
+                    "date": "03-07-2021",
+                    "available_capacity": 64,
+                    "min_age_limit": 18,
+                    "max_age_limit": 44,
+                    "allow_all_age": false,
+                    "vaccine": "COVISHIELD",
+                    "slots": [
+                        "09:00AM-11:00AM",
+                        "11:00AM-01:00PM",
+                        "01:00PM-03:00PM",
+                        "03:00PM-04:00PM"
+                    ],
+                    "available_capacity_dose1": 61,
+                    "available_capacity_dose2": 3
+                }
+            ],
+            "vaccine_fees": [
+                {
+                    "vaccine": "COVISHIELD",
+                    "fee": "780"
+                }
+            ]
+        },
+        {
+            "center_id": 56274,
+            "name": "PIWALI SC AGHAI",
+            "address": "PIWALI SC AGHAI SHAHAPUR",
+            "state_name": "Maharashtra",
+            "district_name": "Thane",
+            "block_name": "Shahapur",
+            "pincode": 421602,
+            "lat": 19,
+            "long": 73,
+            "from": "09:00:00",
+            "to": "15:00:00",
+            "fee_type": "Free",
+            "sessions": [
+                {
+                    "session_id": "90f482ad-bf49-4f45-b599-6ceef542c493",
+                    "date": "03-07-2021",
+                    "available_capacity": 2,
+                    "min_age_limit": 18,
+                    "allow_all_age": true,
+                    "vaccine": "COVISHIELD",
+                    "slots": [
+                        "09:00AM-10:00AM",
+                        "10:00AM-11:00AM",
+                        "11:00AM-12:00PM",
+                        "12:00PM-03:00PM"
+                    ],
+                    "available_capacity_dose1": 0,
+                    "available_capacity_dose2": 2
+                }
+            ]
+        },
+        {
+            "center_id": 744089,
+            "name": "KDMCG SAVITRIBAIPHULE NATYAGRU",
+            "address": "AZDE GAON TATA POWER CO LTD DOMBIVLI EAST DOMBIVLI MAHARASHTRA",
+            "state_name": "Maharashtra",
+            "district_name": "Thane",
+            "block_name": "Kalyan Dombivali Municipal Corporation",
+            "pincode": 421203,
+            "lat": 19,
+            "long": 73,
+            "from": "10:00:00",
+            "to": "20:00:00",
+            "fee_type": "Free",
+            "sessions": [
+                {
+                    "session_id": "03ab5e5b-288a-47b3-b012-1cca4c2ed273",
+                    "date": "03-07-2021",
+                    "available_capacity": 0,
+                    "min_age_limit": 18,
+                    "allow_all_age": true,
+                    "vaccine": "COVISHIELD",
+                    "slots": [
+                        "10:00AM-12:00PM",
+                        "12:00PM-02:00PM",
+                        "02:00PM-04:00PM",
+                        "04:00PM-08:00PM"
+                    ],
+                    "available_capacity_dose1": 0,
+                    "available_capacity_dose2": 0
+                }
+            ]
+        },
+        {
+            "center_id": 565983,
+            "name": "BADLAPUR DUBEY SDH (45 PLUS)",
+            "address": "At Nagar Palika Badlapur",
+            "state_name": "Maharashtra",
+            "district_name": "Thane",
+            "block_name": "Ambernath",
+            "pincode": 421503,
+            "lat": 19,
+            "long": 73,
+            "from": "09:00:00",
+            "to": "17:00:00",
+            "fee_type": "Free",
+            "sessions": [
+                {
+                    "session_id": "e6b50385-5c49-4740-a3bf-72e21b1d2460",
+                    "date": "03-07-2021",
+                    "available_capacity": 3,
+                    "min_age_limit": 18,
+                    "allow_all_age": true,
+                    "vaccine": "COVAXIN",
+                    "slots": [
+                        "09:00AM-11:00AM",
+                        "11:00AM-01:00PM",
+                        "01:00PM-03:00PM",
+                        "03:00PM-05:00PM"
+                    ],
+                    "available_capacity_dose1": 0,
+                    "available_capacity_dose2": 3
+                }
+            ]
+        },
+        {
+            "center_id": 56966,
+            "name": "TRG BAPGAON SC KON",
+            "address": "Bapgaon",
+            "state_name": "Maharashtra",
+            "district_name": "Thane",
+            "block_name": "Bhiwandi",
+            "pincode": 421302,
+            "lat": 19,
+            "long": 73,
+            "from": "09:00:00",
+            "to": "17:00:00",
+            "fee_type": "Free",
+            "sessions": [
+                {
+                    "session_id": "ba0c2cd4-dfd2-426f-ae93-578aad08092c",
+                    "date": "03-07-2021",
+                    "available_capacity": 0,
+                    "min_age_limit": 18,
+                    "allow_all_age": true,
+                    "vaccine": "COVISHIELD",
+                    "slots": [
+                        "09:00AM-11:00AM",
+                        "11:00AM-01:00PM",
+                        "01:00PM-03:00PM",
+                        "03:00PM-05:00PM"
+                    ],
+                    "available_capacity_dose1": 0,
+                    "available_capacity_dose2": 0
+                }
+            ]
+        },
+        {
+            "center_id": 570517,
+            "name": "Extended Jupiter Lifeline Ltd",
+            "address": "Raymond Compound",
+            "state_name": "Maharashtra",
+            "district_name": "Thane",
+            "block_name": "Thane Municipal Corporation",
+            "pincode": 400601,
+            "lat": 19,
+            "long": 72,
+            "from": "09:00:00",
+            "to": "15:00:00",
+            "fee_type": "Paid",
+            "sessions": [
+                {
+                    "session_id": "f795d244-c518-4f26-98eb-282b84f3f2cb",
+                    "date": "03-07-2021",
+                    "available_capacity": 3,
+                    "min_age_limit": 18,
+                    "allow_all_age": true,
+                    "vaccine": "COVISHIELD",
+                    "slots": [
+                        "09:00AM-10:00AM",
+                        "10:00AM-11:00AM",
+                        "11:00AM-12:00PM",
+                        "12:00PM-03:00PM"
+                    ],
+                    "available_capacity_dose1": 1,
+                    "available_capacity_dose2": 2
+                },
+                {
+                    "session_id": "0591d5b1-7c27-4555-8215-87d27a257397",
+                    "date": "04-07-2021",
+                    "available_capacity": 207,
+                    "min_age_limit": 18,
+                    "allow_all_age": true,
+                    "vaccine": "COVISHIELD",
+                    "slots": [
+                        "09:00AM-10:00AM",
+                        "10:00AM-11:00AM",
+                        "11:00AM-12:00PM",
+                        "12:00PM-03:00PM"
+                    ],
+                    "available_capacity_dose1": 92,
+                    "available_capacity_dose2": 115
+                }
+            ],
+            "vaccine_fees": [
+                {
+                    "vaccine": "COVISHIELD",
+                    "fee": "780"
+                }
+            ]
+        },
+        {
+            "center_id": 629083,
+            "name": "KDMCP Isha Netralaya Kalyan W",
+            "address": "Radha Krushna SocietyOpp Holy Cross HospitalKarnik Road Kalyan-W",
+            "state_name": "Maharashtra",
+            "district_name": "Thane",
+            "block_name": "Kalyan Dombivali Municipal Corporation",
+            "pincode": 421301,
+            "lat": 19,
+            "long": 73,
+            "from": "16:00:00",
+            "to": "19:30:00",
+            "fee_type": "Paid",
+            "sessions": [
+                {
+                    "session_id": "7e920fca-c31c-4f29-85ef-540f13209955",
+                    "date": "03-07-2021",
+                    "available_capacity": 90,
+                    "min_age_limit": 18,
+                    "max_age_limit": 44,
+                    "allow_all_age": false,
+                    "vaccine": "COVAXIN",
+                    "slots": [
+                        "04:00PM-06:00PM",
+                        "06:00PM-07:30PM"
+                    ],
+                    "available_capacity_dose1": 0,
+                    "available_capacity_dose2": 90
+                },
+                {
+                    "session_id": "13fac224-a0de-4091-8d7a-ba51699850dd",
+                    "date": "03-07-2021",
+                    "available_capacity": 93,
+                    "min_age_limit": 45,
+                    "allow_all_age": false,
+                    "vaccine": "COVAXIN",
+                    "slots": [
+                        "03:00PM-04:00PM"
+                    ],
+                    "available_capacity_dose1": 48,
+                    "available_capacity_dose2": 45
+                }
+            ],
+            "vaccine_fees": [
+                {
+                    "vaccine": "COVAXIN",
+                    "fee": "1410"
+                }
+            ]
+        },
+        {
+            "center_id": 57551,
+            "name": "TRG VASHIND PHC",
+            "address": "Shankar Nagar Vashind",
+            "state_name": "Maharashtra",
+            "district_name": "Thane",
+            "block_name": "Shahapur",
+            "pincode": 421601,
+            "lat": 19,
+            "long": 73,
+            "from": "09:00:00",
+            "to": "16:00:00",
+            "fee_type": "Free",
+            "sessions": [
+                {
+                    "session_id": "7beb7795-0bdf-44ac-9c02-ffa979664dbb",
+                    "date": "03-07-2021",
+                    "available_capacity": 0,
+                    "min_age_limit": 18,
+                    "allow_all_age": true,
+                    "vaccine": "COVISHIELD",
+                    "slots": [
+                        "09:00AM-11:00AM",
+                        "11:00AM-01:00PM",
+                        "01:00PM-03:00PM",
+                        "03:00PM-04:00PM"
+                    ],
+                    "available_capacity_dose1": 0,
+                    "available_capacity_dose2": 0
+                }
+            ]
+        },
+        {
+            "center_id": 56905,
+            "name": "TRG KINHAVALI PHC",
+            "address": "Near Gram Panchayat Office Kinhavali",
+            "state_name": "Maharashtra",
+            "district_name": "Thane",
+            "block_name": "Shahapur",
+            "pincode": 421403,
+            "lat": 19,
+            "long": 73,
+            "from": "09:00:00",
+            "to": "17:00:00",
+            "fee_type": "Free",
+            "sessions": [
+                {
+                    "session_id": "4d0191dd-75c5-4fe6-b71b-bdc45a1f83b8",
+                    "date": "03-07-2021",
+                    "available_capacity": 7,
+                    "min_age_limit": 18,
+                    "allow_all_age": true,
+                    "vaccine": "COVISHIELD",
+                    "slots": [
+                        "09:00AM-11:00AM",
+                        "11:00AM-01:00PM",
+                        "01:00PM-03:00PM",
+                        "03:00PM-05:00PM"
+                    ],
+                    "available_capacity_dose1": 0,
+                    "available_capacity_dose2": 7
+                }
+            ]
+        },
+        {
+            "center_id": 727960,
+            "name": "TRG SHAHAPUR SDH 45 PLUS",
+            "address": "SHAHAPUR SDH HOSPITAL",
+            "state_name": "Maharashtra",
+            "district_name": "Thane",
+            "block_name": "Shahapur",
+            "pincode": 421601,
+            "lat": 19,
+            "long": 73,
+            "from": "09:00:00",
+            "to": "17:00:00",
+            "fee_type": "Free",
+            "sessions": [
+                {
+                    "session_id": "69599414-0869-4b6b-8c86-39bfd6c4d181",
+                    "date": "03-07-2021",
+                    "available_capacity": 0,
+                    "min_age_limit": 18,
+                    "allow_all_age": true,
+                    "vaccine": "COVAXIN",
+                    "slots": [
+                        "09:00AM-11:00AM",
+                        "11:00AM-01:00PM",
+                        "01:00PM-03:00PM",
+                        "03:00PM-05:00PM"
+                    ],
+                    "available_capacity_dose1": 0,
+                    "available_capacity_dose2": 0
+                },
+                {
+                    "session_id": "5e22a008-806e-4863-822f-fb87d8b1fe45",
+                    "date": "05-07-2021",
+                    "available_capacity": 0,
+                    "min_age_limit": 45,
+                    "allow_all_age": false,
+                    "vaccine": "COVISHIELD",
+                    "slots": [
+                        "09:00AM-10:00AM",
+                        "10:00AM-11:00AM",
+                        "11:00AM-12:00PM",
+                        "12:00PM-03:00PM"
+                    ],
+                    "available_capacity_dose1": 0,
+                    "available_capacity_dose2": 0
+                }
+            ]
+        },
+        {
+            "center_id": 60205,
+            "name": "KDMCG Ambedkar UHC",
+            "address": "DR AMBEDKAR ROAD HP",
+            "state_name": "Maharashtra",
+            "district_name": "Thane",
+            "block_name": "Kalyan Dombivali Municipal Corporation",
+            "pincode": 421301,
+            "lat": 19,
+            "long": 73,
+            "from": "12:00:00",
+            "to": "16:00:00",
+            "fee_type": "Free",
+            "sessions": [
+                {
+                    "session_id": "0b7f5c13-e3cb-4564-ba35-8771403e1bc1",
+                    "date": "03-07-2021",
+                    "available_capacity": 0,
+                    "min_age_limit": 18,
+                    "allow_all_age": true,
+                    "vaccine": "COVISHIELD",
+                    "slots": [
+                        "12:00PM-01:00PM",
+                        "01:00PM-02:00PM",
+                        "02:00PM-03:00PM",
+                        "03:00PM-04:00PM"
+                    ],
+                    "available_capacity_dose1": 0,
+                    "available_capacity_dose2": 0
+                }
+            ]
+        },
+        {
+            "center_id": 599273,
+            "name": "KDMCG Sawalaram Krida Sankool",
+            "address": "Gharada Circle Nr. Pendharkar College Dombivli East",
+            "state_name": "Maharashtra",
+            "district_name": "Thane",
+            "block_name": "Kalyan Dombivali Municipal Corporation",
+            "pincode": 421201,
+            "lat": 19,
+            "long": 73,
+            "from": "10:00:00",
+            "to": "17:00:00",
+            "fee_type": "Free",
+            "sessions": [
+                {
+                    "session_id": "8334e1fd-2700-4dd9-9708-5f7dd36cf04f",
+                    "date": "03-07-2021",
+                    "available_capacity": 0,
+                    "min_age_limit": 18,
+                    "allow_all_age": true,
+                    "vaccine": "COVISHIELD",
+                    "slots": [
+                        "10:00AM-12:00PM",
+                        "12:00PM-02:00PM",
+                        "02:00PM-04:00PM",
+                        "04:00PM-05:00PM"
+                    ],
+                    "available_capacity_dose1": 0,
+                    "available_capacity_dose2": 0
+                }
+            ]
+        },
+        {
+            "center_id": 56459,
+            "name": "ANGAON PHC",
+            "address": "ANGAON",
+            "state_name": "Maharashtra",
+            "district_name": "Thane",
+            "block_name": "Bhiwandi",
+            "pincode": 421302,
+            "lat": 19,
+            "long": 73,
+            "from": "09:00:00",
+            "to": "17:00:00",
+            "fee_type": "Free",
+            "sessions": [
+                {
+                    "session_id": "b2323902-c265-4ae6-8a70-b5b634492572",
+                    "date": "03-07-2021",
+                    "available_capacity": 0,
+                    "min_age_limit": 18,
+                    "allow_all_age": true,
+                    "vaccine": "COVISHIELD",
+                    "slots": [
+                        "09:00AM-11:00AM",
+                        "11:00AM-01:00PM",
+                        "01:00PM-03:00PM",
+                        "03:00PM-05:00PM"
+                    ],
+                    "available_capacity_dose1": 0,
+                    "available_capacity_dose2": 0
+                }
+            ]
+        },
+        {
+            "center_id": 57486,
+            "name": "CENTRAL HOSP UMC (45 PLUS)",
+            "address": "Ulhasnagar Central Hospitalulhasnager 3",
+            "state_name": "Maharashtra",
+            "district_name": "Thane",
+            "block_name": "Ambernath",
+            "pincode": 421003,
+            "lat": 19,
+            "long": 73,
+            "from": "09:00:00",
+            "to": "17:00:00",
+            "fee_type": "Free",
+            "sessions": [
+                {
+                    "session_id": "b4c15504-98e2-4d3e-8a0a-1018aebaee71",
+                    "date": "03-07-2021",
+                    "available_capacity": 0,
+                    "min_age_limit": 18,
+                    "allow_all_age": true,
+                    "vaccine": "COVAXIN",
+                    "slots": [
+                        "09:00AM-11:00AM",
+                        "11:00AM-01:00PM",
+                        "01:00PM-03:00PM",
+                        "03:00PM-05:00PM"
+                    ],
+                    "available_capacity_dose1": 0,
+                    "available_capacity_dose2": 0
+                }
+            ]
+        },
+        {
+            "center_id": 67064,
+            "name": "NMMC Meenatai Thakare Hospital",
+            "address": "NERUL NEAR RAILWAY STATION NAVI MUMBAI",
+            "state_name": "Maharashtra",
+            "district_name": "Thane",
+            "block_name": "Navi Mumbai Municipal Corporation",
+            "pincode": 400706,
+            "lat": 19,
+            "long": 73,
+            "from": "09:00:00",
+            "to": "17:00:00",
+            "fee_type": "Free",
+            "sessions": [
+                {
+                    "session_id": "21a9cb9f-5e4a-4e32-864e-714acf55fba9",
+                    "date": "03-07-2021",
+                    "available_capacity": 0,
+                    "min_age_limit": 18,
+                    "allow_all_age": true,
+                    "vaccine": "COVISHIELD",
+                    "slots": [
+                        "09:00AM-11:00AM",
+                        "11:00AM-01:00PM",
+                        "01:00PM-03:00PM",
+                        "03:00PM-05:00PM"
+                    ],
+                    "available_capacity_dose1": 0,
+                    "available_capacity_dose2": 0
+                }
+            ]
+        },
+        {
+            "center_id": 631840,
+            "name": "NMMC General Hosp (2) Airoli",
+            "address": "Sector 3 Airoli Near Bus Depo Airoli Navi Mumbai",
+            "state_name": "Maharashtra",
+            "district_name": "Thane",
+            "block_name": "Navi Mumbai Municipal Corporation",
+            "pincode": 400708,
+            "lat": 19,
+            "long": 72,
+            "from": "09:00:00",
+            "to": "17:00:00",
+            "fee_type": "Free",
+            "sessions": [
+                {
+                    "session_id": "3a9dbd38-2098-4bb5-90f6-2e860fb38305",
+                    "date": "04-07-2021",
+                    "available_capacity": 0,
+                    "min_age_limit": 45,
+                    "allow_all_age": false,
+                    "vaccine": "COVAXIN",
+                    "slots": [
+                        "09:00AM-11:00AM",
+                        "11:00AM-01:00PM",
+                        "01:00PM-03:00PM",
+                        "03:00PM-05:00PM"
+                    ],
+                    "available_capacity_dose1": 0,
+                    "available_capacity_dose2": 0
+                },
+                {
+                    "session_id": "e6f6b3c6-6d9f-4ac3-b6d0-3118ea86c7cf",
+                    "date": "04-07-2021",
+                    "available_capacity": 0,
+                    "min_age_limit": 18,
+                    "max_age_limit": 44,
+                    "allow_all_age": false,
+                    "vaccine": "COVAXIN",
+                    "slots": [
+                        "09:00AM-11:00AM",
+                        "11:00AM-01:00PM",
+                        "01:00PM-03:00PM",
+                        "03:00PM-05:00PM"
+                    ],
+                    "available_capacity_dose1": 0,
+                    "available_capacity_dose2": 0
+                }
+            ]
+        },
+        {
+            "center_id": 613469,
+            "name": "Highway Hospital TMC Thane",
+            "address": "Devashish Appartment Marathon Circle Near Luis Wadi Eastern Express Highway Teenhath Naka Thane Maharashtra",
+            "state_name": "Maharashtra",
+            "district_name": "Thane",
+            "block_name": "Thane Municipal Corporation",
+            "pincode": 400602,
+            "lat": 19,
+            "long": 72,
+            "from": "12:00:00",
+            "to": "15:00:00",
+            "fee_type": "Paid",
+            "sessions": [
+                {
+                    "session_id": "997e1036-b0b3-45da-8202-3551d15cd1d9",
+                    "date": "04-07-2021",
+                    "available_capacity": 0,
+                    "min_age_limit": 18,
+                    "allow_all_age": true,
+                    "vaccine": "COVAXIN",
+                    "slots": [
+                        "12:00PM-02:00PM",
+                        "02:00PM-03:00PM"
+                    ],
+                    "available_capacity_dose1": 0,
+                    "available_capacity_dose2": 0
+                }
+            ],
+            "vaccine_fees": [
+                {
+                    "vaccine": "COVAXIN",
+                    "fee": "1410"
+                }
+            ]
+        },
+        {
+            "center_id": 631439,
+            "name": "NMMC GENERAL HOSP (2) VASHI10A",
+            "address": "St Mary Sec 10A Vashi Navi Mumbai",
+            "state_name": "Maharashtra",
+            "district_name": "Thane",
+            "block_name": "Navi Mumbai Municipal Corporation",
+            "pincode": 400703,
+            "lat": 19,
+            "long": 72,
+            "from": "09:00:00",
+            "to": "17:00:00",
+            "fee_type": "Free",
+            "sessions": [
+                {
+                    "session_id": "39ea3973-693d-411a-8335-ae05433f4985",
+                    "date": "04-07-2021",
+                    "available_capacity": 1,
+                    "min_age_limit": 45,
+                    "allow_all_age": false,
+                    "vaccine": "COVAXIN",
+                    "slots": [
+                        "09:00AM-11:00AM",
+                        "11:00AM-01:00PM",
+                        "01:00PM-03:00PM",
+                        "03:00PM-05:00PM"
+                    ],
+                    "available_capacity_dose1": 0,
+                    "available_capacity_dose2": 1
+                },
+                {
+                    "session_id": "fb093052-6c18-4e6c-afac-6d1a18585fd5",
+                    "date": "04-07-2021",
+                    "available_capacity": 0,
+                    "min_age_limit": 18,
+                    "max_age_limit": 44,
+                    "allow_all_age": false,
+                    "vaccine": "COVAXIN",
+                    "slots": [
+                        "09:00AM-11:00AM",
+                        "11:00AM-01:00PM",
+                        "01:00PM-03:00PM",
+                        "03:00PM-05:00PM"
+                    ],
+                    "available_capacity_dose1": 0,
+                    "available_capacity_dose2": 0
+                }
+            ]
+        },
+        {
+            "center_id": 702190,
+            "name": "Children First Hospital",
+            "address": "2Nd Floor Ajit Darshan Chs Above National Punjab Hotel 3 Petrol Pump Thane W",
+            "state_name": "Maharashtra",
+            "district_name": "Thane",
+            "block_name": "Thane Municipal Corporation",
+            "pincode": 400602,
+            "lat": 19,
+            "long": 72,
+            "from": "10:00:00",
+            "to": "14:00:00",
+            "fee_type": "Paid",
+            "sessions": [
+                {
+                    "session_id": "be10933b-de8f-496f-8cb1-4465acd24115",
+                    "date": "04-07-2021",
+                    "available_capacity": 224,
+                    "min_age_limit": 45,
+                    "allow_all_age": false,
+                    "vaccine": "COVISHIELD",
+                    "slots": [
+                        "10:00AM-11:00AM",
+                        "11:00AM-12:00PM",
+                        "12:00PM-01:00PM",
+                        "01:00PM-02:00PM"
+                    ],
+                    "available_capacity_dose1": 38,
+                    "available_capacity_dose2": 186
+                },
+                {
+                    "session_id": "00ba7d9c-b0e2-48b0-bce1-af83aedc3e96",
+                    "date": "04-07-2021",
+                    "available_capacity": 126,
+                    "min_age_limit": 18,
+                    "max_age_limit": 44,
+                    "allow_all_age": false,
+                    "vaccine": "COVISHIELD",
+                    "slots": [
+                        "01:00PM-03:00PM",
+                        "03:00PM-04:00PM"
+                    ],
+                    "available_capacity_dose1": 106,
+                    "available_capacity_dose2": 20
+                }
+            ],
+            "vaccine_fees": [
+                {
+                    "vaccine": "COVISHIELD",
+                    "fee": "780"
+                }
+            ]
+        },
+        {
+            "center_id": 695576,
+            "name": "UMC School No. 14 UNR 421004",
+            "address": "School No. 14 Opp. Vitthalwadi Police Station O. T. Section Ulhasnagar 421004 East.",
+            "state_name": "Maharashtra",
+            "district_name": "Thane",
+            "block_name": "Ulhasnagar Municipal Corporation",
+            "pincode": 421004,
+            "lat": 19,
+            "long": 73,
+            "from": "10:00:00",
+            "to": "17:00:00",
+            "fee_type": "Free",
+            "sessions": [
+                {
+                    "session_id": "548937c7-2c65-49b6-b488-685797972da9",
+                    "date": "05-07-2021",
+                    "available_capacity": 2,
+                    "min_age_limit": 18,
+                    "max_age_limit": 44,
+                    "allow_all_age": false,
+                    "vaccine": "COVAXIN",
+                    "slots": [
+                        "10:00AM-12:00PM",
+                        "12:00PM-02:00PM",
+                        "02:00PM-04:00PM",
+                        "04:00PM-05:00PM"
+                    ],
+                    "available_capacity_dose1": 2,
+                    "available_capacity_dose2": 0
+                }
+            ]
+        },
+        {
+            "center_id": 609214,
+            "name": "Mangal Prabhu Hosp Navi Mumbai",
+            "address": "Plot No. 27 Sector - 24 Near To Juinagar (W Sanpada Railway Station Road Juinagar Navi Mumbai",
+            "state_name": "Maharashtra",
+            "district_name": "Thane",
+            "block_name": "Navi Mumbai Municipal Corporation",
+            "pincode": 400706,
+            "lat": 19,
+            "long": 73,
+            "from": "09:00:00",
+            "to": "18:00:00",
+            "fee_type": "Paid",
+            "sessions": [
+                {
+                    "session_id": "cd0fd023-d5d2-4276-82c1-55f470e08751",
+                    "date": "05-07-2021",
+                    "available_capacity": 182,
+                    "min_age_limit": 18,
+                    "max_age_limit": 44,
+                    "vaccine": "COVISHIELD",
+                    "slots": [
+                        "09:00AM-11:00AM",
+                        "11:00AM-01:00PM",
+                        "01:00PM-03:00PM",
+                        "03:00PM-06:00PM"
+                    ],
+                    "available_capacity_dose1": 1,
+                    "available_capacity_dose2": 181
+                },
+                {
+                    "session_id": "8f2f1f2d-fdf3-4f71-942d-69b9658ab870",
+                    "date": "05-07-2021",
+                    "available_capacity": 125,
+                    "min_age_limit": 45,
+                    "vaccine": "COVISHIELD",
+                    "slots": [
+                        "09:00AM-11:00AM",
+                        "11:00AM-01:00PM",
+                        "01:00PM-03:00PM",
+                        "03:00PM-06:00PM"
+                    ],
+                    "available_capacity_dose1": 124,
+                    "available_capacity_dose2": 1
+                }
+            ],
+            "vaccine_fees": [
+                {
+                    "vaccine": "COVISHIELD",
+                    "fee": "780"
+                }
+            ]
+        },
+        {
+            "center_id": 728014,
+            "name": "Century Rayon High School",
+            "address": "Century Rayon High School B7 Kalyan - Ahmednagar Highway Century Rayon Colony Shahad Ulhasnagar Maharashtra 421103",
+            "state_name": "Maharashtra",
+            "district_name": "Thane",
+            "block_name": "Ulhasnagar Municipal Corporation",
+            "pincode": 421103,
+            "lat": 19,
+            "long": 73,
+            "from": "10:00:00",
+            "to": "17:00:00",
+            "fee_type": "Free",
+            "sessions": [
+                {
+                    "session_id": "ecee6368-bbfe-4d9e-929c-336d6af316d1",
+                    "date": "05-07-2021",
+                    "available_capacity": 93,
+                    "min_age_limit": 45,
+                    "allow_all_age": false,
+                    "vaccine": "COVAXIN",
+                    "slots": [
+                        "10:00AM-12:00PM",
+                        "12:00PM-02:00PM",
+                        "02:00PM-04:00PM",
+                        "04:00PM-05:00PM"
+                    ],
+                    "available_capacity_dose1": 1,
+                    "available_capacity_dose2": 92
+                }
+            ]
+        },
+        {
+            "center_id": 758076,
+            "name": "Healthspring Navi Mumbai",
+            "address": "Wellspring Healthcare Pvt Ltd. Sector 2 Arti CHS Ltd Plot No 29 Next To RBL Bank Vashi 400703",
+            "state_name": "Maharashtra",
+            "district_name": "Thane",
+            "block_name": "Navi Mumbai Municipal Corporation",
+            "pincode": 400703,
+            "lat": 19,
+            "long": 72,
+            "from": "11:00:00",
+            "to": "16:00:00",
+            "fee_type": "Paid",
+            "sessions": [
+                {
+                    "session_id": "bcc0df66-377d-4e29-a1f7-039589e475b3",
+                    "date": "05-07-2021",
+                    "available_capacity": 14,
+                    "min_age_limit": 18,
+                    "max_age_limit": 44,
+                    "allow_all_age": false,
+                    "vaccine": "COVAXIN",
+                    "slots": [
+                        "11:00AM-12:00PM",
+                        "12:00PM-01:00PM",
+                        "01:00PM-02:00PM",
+                        "02:00PM-04:00PM"
+                    ],
+                    "available_capacity_dose1": 14,
+                    "available_capacity_dose2": 0
+                },
+                {
+                    "session_id": "5b12d8af-f684-4119-859a-fd14a00a14c1",
+                    "date": "05-07-2021",
+                    "available_capacity": 5,
+                    "min_age_limit": 45,
+                    "allow_all_age": false,
+                    "vaccine": "COVAXIN",
+                    "slots": [
+                        "11:00AM-12:00PM",
+                        "12:00PM-01:00PM",
+                        "01:00PM-02:00PM",
+                        "02:00PM-04:00PM"
+                    ],
+                    "available_capacity_dose1": 0,
+                    "available_capacity_dose2": 5
+                }
+            ],
+            "vaccine_fees": [
+                {
+                    "vaccine": "COVAXIN",
+                    "fee": "1410"
+                }
+            ]
+        },
+        {
+            "center_id": 740372,
+            "name": "Healing Hands Cli. Navi Mumbai",
+            "address": "Healing Hands Clinic 5 Gahlot Majesty Sector 46 A OPP. NRI Colony Palm Beach Road Navi Mumbai",
+            "state_name": "Maharashtra",
+            "district_name": "Thane",
+            "block_name": "Navi Mumbai Municipal Corporation",
+            "pincode": 400706,
+            "lat": 19,
+            "long": 73,
+            "from": "12:30:00",
+            "to": "17:00:00",
+            "fee_type": "Paid",
+            "sessions": [
+                {
+                    "session_id": "05c41313-b215-4371-8a9f-635727c61d01",
+                    "date": "05-07-2021",
+                    "available_capacity": 184,
+                    "min_age_limit": 45,
+                    "allow_all_age": false,
+                    "vaccine": "COVISHIELD",
+                    "slots": [
+                        "12:30PM-01:30PM",
+                        "01:30PM-02:30PM",
+                        "02:30PM-03:30PM",
+                        "03:30PM-05:00PM"
+                    ],
+                    "available_capacity_dose1": 99,
+                    "available_capacity_dose2": 85
+                }
+            ],
+            "vaccine_fees": [
+                {
+                    "vaccine": "COVISHIELD",
+                    "fee": "780"
+                }
+            ]
+        },
+        {
+            "center_id": 724390,
+            "name": "Wellspring Healthcare Pvt Ltd",
+            "address": "Shop No 4 Pataskar Eclat At Service Road Opp D-Mart Ghodbunder Rd Next To Axis Bank Kavesar Thane West",
+            "state_name": "Maharashtra",
+            "district_name": "Thane",
+            "block_name": "Thane Municipal Corporation",
+            "pincode": 400607,
+            "lat": 19,
+            "long": 72,
+            "from": "11:00:00",
+            "to": "16:00:00",
+            "fee_type": "Paid",
+            "sessions": [
+                {
+                    "session_id": "8f19bcf5-c1cc-40a9-bd20-4ae95d50c486",
+                    "date": "05-07-2021",
+                    "available_capacity": 4,
+                    "min_age_limit": 45,
+                    "allow_all_age": false,
+                    "vaccine": "COVAXIN",
+                    "slots": [
+                        "11:00AM-12:00PM",
+                        "12:00PM-01:00PM",
+                        "01:00PM-02:00PM",
+                        "02:00PM-04:00PM"
+                    ],
+                    "available_capacity_dose1": 1,
+                    "available_capacity_dose2": 3
+                },
+                {
+                    "session_id": "14183a84-4510-468d-b465-35812b03de6c",
+                    "date": "05-07-2021",
+                    "available_capacity": 15,
+                    "min_age_limit": 18,
+                    "max_age_limit": 44,
+                    "allow_all_age": false,
+                    "vaccine": "COVAXIN",
+                    "slots": [
+                        "11:00AM-12:00PM",
+                        "12:00PM-01:00PM",
+                        "01:00PM-02:00PM",
+                        "02:00PM-04:00PM"
+                    ],
+                    "available_capacity_dose1": 15,
+                    "available_capacity_dose2": 0
+                }
+            ],
+            "vaccine_fees": [
+                {
+                    "vaccine": "COVAXIN",
+                    "fee": "1410"
+                }
+            ]
+        },
+        {
+            "center_id": 574727,
+            "name": "Kaushalya Hospital Thane",
+            "address": "Namdev Wadi Opp. Nitin Company Ramabai Ambedkar Nagar Ganeshwadi Thane West Thane",
+            "state_name": "Maharashtra",
+            "district_name": "Thane",
+            "block_name": "Thane Municipal Corporation",
+            "pincode": 400601,
+            "lat": 19,
+            "long": 72,
+            "from": "15:00:00",
+            "to": "16:00:00",
+            "fee_type": "Paid",
+            "sessions": [
+                {
+                    "session_id": "09154cba-7ffa-4b15-ae25-fdae8a4094c1",
+                    "date": "06-07-2021",
+                    "available_capacity": 7,
+                    "min_age_limit": 18,
+                    "max_age_limit": 44,
+                    "allow_all_age": false,
+                    "vaccine": "COVAXIN",
+                    "slots": [
+                        "03:00PM-04:00PM"
+                    ],
+                    "available_capacity_dose1": 0,
+                    "available_capacity_dose2": 7
+                },
+                {
+                    "session_id": "2376d561-bce5-4ec7-8d68-a4108d5e4b5d",
+                    "date": "06-07-2021",
+                    "available_capacity": 5,
+                    "min_age_limit": 45,
+                    "allow_all_age": false,
+                    "vaccine": "COVAXIN",
+                    "slots": [
+                        "03:00PM-04:00PM"
+                    ],
+                    "available_capacity_dose1": 4,
+                    "available_capacity_dose2": 1
+                }
+            ],
+            "vaccine_fees": [
+                {
+                    "vaccine": "COVAXIN",
+                    "fee": "1410"
+                }
+            ]
+        }
+    ]
+}
